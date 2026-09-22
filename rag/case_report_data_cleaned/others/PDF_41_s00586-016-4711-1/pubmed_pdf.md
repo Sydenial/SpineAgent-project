@@ -1,0 +1,32 @@
+# Long-term Management of Congenital Lordoscoliosis of the Thoracic Spine
+
+## Abstract
+Purpose: To report the progression of congenital hyperlordoscoliosis in a 2-year-old patient and the use of multiple surgical interventions for thoracic hyperlordoscoliosis. Methods: A 2-year-old with thoracic hyperlordosis was observed for 1 year. To halt progression, a posterior laminectomy was performed to remove all fused segments. Despite surgery, lordosis progressed via spontaneous autofusion with development of scoliosis with a unilateral unsegmented bar. At age 9 years, posterior osteotomy at the fused segments was performed; it failed to correct hyperlordosis but did correct scoliosis. At age 12 years, the patient developed mild breathing difficulties from thoracic hyperlordosis and underwent posterior multilevel vertebral osteotomy (PMVO) to correct lordoscoliosis. Results: Over 3 years after PMVO, correction was maintained with a good clinical outcome and a well-balanced spine. Conclusions: PMVO is a potential intervention to manage rigid and severe congenital lordoscoliosis of the thoracic spine.
+
+Keywords: Lordoscoliosis, progression, spontaneous autofusion, posterior multilevel vertebral osteotomy
+
+## Introduction
+Congenital lordoscoliosis is a very rare spinal deformity associated with vertebral, rib, and intraspinal anomalies and is difficult to manage [1-4]. Weiss and Moramarco [5] reported that surgery may be unnecessary in treating congenital scoliosis when advanced bracing is used, despite uncertainty in predicting final outcomes. However, correcting lordosis in a previously fused spine is surgically challenging. Posterior multilevel vertebral osteotomy (PMVO) offers advantages as a posterior-only procedure that avoids pulmonary complications and can provide satisfactory correction [6]. We report management of congenital lordoscoliosis of the thoracic spine using PMVO in a patient with prior surgery.
+
+## Case Report
+A 2-year-old boy with multiple joint deformities presented with thoracic hyperlordosis. Neurological examination was unremarkable. Plain radiography and computed tomography (CT) showed hyperlordosis and congenital fusion of thoracic segments. Because lordosis progressed, all fused segments were removed by posterior laminectomy to prevent further progression.
+
+Over the next 7 years, lordosis progressed, and CT demonstrated spontaneous autofusion. Plain radiography revealed a unilateral unsegmented bar. Revision surgery was undertaken to correct both hyperlordosis and scoliosis using osteotomy of the fused segments combined with anterior fusion. Hyperlordosis correction was unsuccessful, but scoliosis correction was achieved.
+
+Three years later, at age 12, lordosis had progressed, and the patient reported exertional breathing difficulty. Pulmonary function showed forced vital capacity (FVC) 0.98 L and forced expiratory volume in 1 second (FEV1) 0.74 L. Surgery was performed to remove implants and to carry out PMVO of the fusion mass with deformity correction. After screw fixation from T1 to L1, PMVO was performed at two sites: between T8 and T9 and between T11 and T12. Osteotomy of the anterior one-third of the vertebral body was completed by controlled oscillation of the osteotome in cephalad and caudal directions with the osteotome in situ until mobility was confirmed [6].
+
+During the first stage, transient motor evoked potential (MEP) changes and decreased oxygen saturation occurred. The procedure was stopped, temporary unilateral rod fixation was applied, and MEPs returned to normal. Postoperative complications included bilateral pleural effusions managed with chest drainage and a transient paralytic ileus that resolved spontaneously. The patient was weaned from the ventilator over 4 days. One week later, a second procedure was performed; two rods were slowly manipulated under MEP monitoring to achieve approximately 5 degrees of thoracic kyphosis correction. The intraoperative course was uneventful. The patient was discharged after 1 week.
+
+During 3 years of follow-up, correction was maintained and the spine remained well-balanced. At last follow-up, FVC was 1.00 L and FEV1 0.94 L. Sagittal CT showed spine length from T1 to L2 increased from 202 mm preoperatively to 210 mm at 2.5 years postoperatively.
+
+## Discussion
+Scoliosis associated with thoracic lordosis is linked to significant respiratory compromise and rib and intraspinal anomalies [4, 7-11]. Early correction has been recommended to prevent irreversible pulmonary changes when focal bronchial obstruction is present [12]. Staged combined anterior and posterior approaches have been proposed for thoracic lordoscoliosis [1, 2].
+
+In this case, initial surgery aimed to create mobile segments by removing fused lamina, with an expectation of spontaneous lordosis correction through anterior longitudinal growth from the primary ossification center seen on CT. The neurocentral synchondrosis lies anterior to the pedicles and contributes to vertebral body formation centrally and adjacent to the neural arch. Thus, removing the tethering effect of congenitally fused lamina was expected to permit anterior longitudinal growth; however, lordoscoliosis progressed. A unilateral unsegmented bar, not recognized initially on radiographs, later became apparent and was associated with progression.
+
+By age 9, CT showed spontaneous autofusion after prior laminectomy, which could have impeded anterior growth. Spontaneous autofusion is a known complication after spinal surgery for deformity in young children. Although lordosis was not corrected, scoliosis correction was satisfactory. Three years later, progressive thoracic lordosis caused mild respiratory symptoms.
+
+PMVO, a posterior-only three-column osteotomy developed for rigid scoliosis [6, 13, 14], was selected. PMVO increases flexibility in a rigid spine with a fusion mass, allowing correction to be distributed across osteotomized levels and improving coronal and sagittal balance. At 3-year follow-up, deformity correction was maintained with good clinical outcomes and a well-balanced spine.
+
+## Conclusion
+PMVO may be a viable option for managing rigid and severe congenital lordoscoliosis of the thoracic spine, particularly when performed under intraoperative MEP monitoring.

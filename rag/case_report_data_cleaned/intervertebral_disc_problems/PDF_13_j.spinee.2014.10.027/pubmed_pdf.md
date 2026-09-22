@@ -1,0 +1,5 @@
+# Late Cervical Traumatic Spondylolisthesis
+
+## Case Report
+
+A 40-year-old man complained of neck pain and limitation of the cervical spine after a traffic accident. No neurologic deficit was found. No fracture or spondylolisthesis was identified on the plain radiograph (Fig. 1). After treatment with a hard collar for 8 weeks, he was free of neck pain and limitation of the cervical spine. However, after 1 year, he returned and complained of neck pain and stiffness and anesthesia of the limbs. Physical examination showed spasm of the limbs. Plain radiograph showed C4-5 cervical spondylolisthesis (Fig. 2), and magnetic resonance imaging showed C4-5 cervical spondylolisthesis with the spinal cord severely compressed (Fig. 3). He subsequently underwent reduction and fixation of C4-5 through an anterior approach (Fig. 4). The patient returned to normal work free of symptoms 3 months after surgery.

@@ -1,0 +1,12 @@
+# IMAGES OF SPINE CARE
+
+## A rare case of atypical noncontiguous multiple spinal tuberculosis
+
+A 25-year-old man was referred to our department who presented with neck and back pain for 2 months and numbness and weakness of four limbs for 2 weeks. The physical examination of the patient showed hypoesthesia below C5, myodynamia of four limbs weakened to Grade 3 to 4, Hoffmann sign (+), and Babinski sign (+). The results of laboratory examinations showed that erythrocyte sedimentation rate was 107 mm/h, C-reactive protein was 128 mg/L, kappa was 14.50 g/L, lamda was 8.42 g/L, cancer antigen 15-3 was 43.40 U/mL, and cancer antigen 72-4 was 18.87 U/mL. Computed tomographic images showed circular lesions of bone destruction spread over multiple spinal segments including C3–C6, T2–T5, T11–T12, L1, L3, L5, S1, and S2. Sequestrum can be found at the center of each lesion. Cervical magnetic resonance imaging (MRI) revealed fusiform paraspinal abscess located at C3–C6 and T2–T5 without obvious damage of all the intervertebral discs. The longitudinal abscess lesion at the anteretheca of spinal canal from C3 to C6 compresses the spinal cord significantly. Lumbar MRI revealed inhomogeneous and rounded T2 hyperintensity in all the involved vertebral bodies. Although spinal tuberculosis or tumor was indefinite before operation, this patient underwent posterior approach of cervical spine surgery including decompression, screw fixation, and bone graft fusion. Diagnosis of multiple spinal tuberculosis was made based on the positive result of pus culture and histopathologic examination. Normative antituberculosis therapy for 12 months was applied. Neck and back pain were gradually relieved and significant improvement of the neural function of limbs was achieved. He was able to sit up and walk without a stick at 6 months of follow-up. The CT scan and MRI at 1-year follow-up showed that the abscess that compresses the spinal cord in the cervical spinal canal had disappeared, and all the circular lesions of bone destruction were healed apparently.
+
+## Authors:
+- Lei Wang, MD
+- Limin Liu, MD
+- Yueming Song, MD
+
+Department of Orthopedic Surgery, West China Hospital, Sichuan University, No. 37 Guo Xue Road, Chengdu, Sichuan, China, 610041

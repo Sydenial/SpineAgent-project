@@ -1,0 +1,7 @@
+# Sclerosing vertebra in the spine: typical sign of spinal brucellosis
+
+Spinal brucellosis is considered an endemic zoonotic disease, which is a rare disorder that mostly occurs after the ingestion of nonpasteurized milk products from infected cows or occupational exposure. The spine is the most common site of musculoskeletal involvement [1]. We report a case with typical imaging characteristics of spinal brucellosis.
+
+## Case Report
+
+A 60-year-old woman presented with back pain and limitation of motion of the lumbar spine for over 3 months. She had no obvious neurologic deficit. Plain radiographs demonstrated that the intervertebral space between L3 and L4 had collapsed with bone erosion of the adjacent vertebrae (Fig. 1). Computed tomography axial scan showed local bony destruction in L3 (Fig. 2, Left). The whole vertebral body of L4 was sclerosing in the sagittal computed tomography reconstruction (Fig. 2, Right). Magnetic resonance imaging demonstrated a hypointense signal on T1-weighted images of the intervertebral disc between L3 and L4 and the adjacent vertebral bodies; the signals in these areas became hyperintense on T2-weighted sequences (Fig. 3). The paravertebral abscess was not obvious. Her seroagglutination test for antibodies to Brucella was positive at a titer of $\geqslant 1/160$. Management consisted of a combined drug therapy and surgical debridement via an anterolateral approach. Symptomatic relief was obtained postoperatively. At the 6-month follow-up, she was free from back pain and resumed normal activities.

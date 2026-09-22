@@ -1,0 +1,7 @@
+# Child hemivertebra combined with butterfly vertebra of the cervicothoracic junction mimicking traumatic burst fracture
+
+## Case Report
+A 4-year-old boy presented with acute onset of neck pain following a fall at home, without radiating pain or limb weakness. At the emergency department, a lateral cervical radiograph suggested a C7 burst fracture (Fig. 1). Computed tomographic scan demonstrated a C7 hemivertebra with an abnormal complementary C6 vertebral shape and a T1 butterfly vertebra (Fig. 2). In addition, the intervertebral disc showed irregular density continuous with the discs above and below the butterfly vertebra (Fig. 3). His symptoms resolved with conservative treatment and cervical collar fixation.
+
+## Discussion
+Hemivertebra and butterfly vertebra most commonly occur in the thoracic and lumbar spine. They may be associated with complex congenital diseases such as Pfeiffer syndrome, Jarcho-Levin syndrome, Crouzon syndrome, Alagille syndrome, and VACTERL association [1-3]. In this case, none of these anomalies were present. Hemivertebra combined with a butterfly vertebra is very rare. It may alter spinal stability, causing atypical back pain or increasing the possibility of disc herniation in the future [1,2].

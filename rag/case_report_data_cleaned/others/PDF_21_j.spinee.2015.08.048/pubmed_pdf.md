@@ -1,0 +1,6 @@
+# Multiple Extradural and Intradural Spinal Anomalies in a Child
+
+## Case Report
+A 7-year-old boy presented with a history of weakness of the lower limbs and bladder incontinence since early childhood. His magnetic resonance imaging at 4 months of age had demonstrated multiple spinal anomalies (Fig. 1A). He was lost to follow-up after having been advised surgery. Magnetic resonance imaging done 7 years later demonstrated a Chiari type I malformation with a holocord syrinx (Fig. 1B, C), a ventrally located intradural cystic lesion suggestive of a neurenteric cyst compressing the cord from C3 to C5 levels (Fig. 1B–D), and scoliosis of the lower cervical spine (Fig. 1D). The conus was low-lying and tethered (Fig. 2A), and there was evidence of a split cord malformation (Fig. 2B) with two hemicords seen at the L4 level. Computed tomography of the lumbosacral spine (Fig. 2C, D) demonstrated lumbosacral agenesis, with absence of L5, S1, and S2 vertebral bodies, incompletely formed posterior elements, and total absence of the rest of the sacral vertebrae and coccyx. Other spinal anomalies included partial fusion of multiple vertebral bodies in the dorsal and cervical regions and a few hemivertebrae in the dorsal spine.
+
+The boy underwent a foramen magnum decompression, excision of the neurenteric cyst, and detethering of the cord.

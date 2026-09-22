@@ -1,0 +1,5 @@
+# Does the addition of lumbar fusion, with or without instrumentation, to surgical decompression improve surgical outcomes in the treatment of adult patients with isthmic spondylolisthesis compared to treatment by decompression alone?
+
+There was no evidence to address this clinical question. Due to the paucity of literature addressing this question, the work group was unable to generate a recommendation.
+
+Although there was no literature evaluating the addition of fusion to decompression versus decompression alone in adult isthmic spondylolisthesis patients, the work group observed the presence of literature evaluating the addition of decompression to fusion versus fusion alone. Because the literature search was not specifically designed to address this topic, the work group opted not to comment on findings. A clinical question comparing the addition of decompression to fusion versus fusion alone may be considered for a future guideline on this topic.

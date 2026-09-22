@@ -1,0 +1,5 @@
+# Incidental Dural Ectasia Associated With Scoliosis
+## Case Report
+A 35-year-old woman presented with coryzal symptoms in the context of her son having pneumonia and was found to have a right-sided chest lesion on chest X-ray (Fig. 1). Computed tomography of her chest and subsequent magnetic resonance imaging of her brain and full spine were performed to further characterize the chest lesion (Figs. 2 and 3). The imaging findings revealed a large right-sided thoracic meningocele extending through the foramina at T8–T9, T9–T10, and T10–T11, associated with extensive dural ectasia (from the T6 level to the conus) and scoliosis.
+
+On further questioning, she reported mild back pain for the last 15–20 years and had recently begun to experience ill-defined bilateral lower-limb sciatica. Neurologic examination revealed hyperreflexia in all four limbs. There were no hyperflexible joints and no neurocutaneous stigmata of neurofibromatosis, which dural ectasia is often associated with [1–3].

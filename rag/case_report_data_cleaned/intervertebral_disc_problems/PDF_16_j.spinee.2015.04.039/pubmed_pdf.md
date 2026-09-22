@@ -1,0 +1,11 @@
+# Traumatic high-grade L5–S1 spondylolisthesis with vertebral physeal injury
+
+## Case Report
+
+An 11-year-old girl was hit by a collapsed beam and injured her back during the 2008 Wenchuan earthquake. She presented with severe lumbosacral pain and numbness in both lower limbs. Neurologic examination showed diminished sensation below L5 and grade 4 muscle power in both the tibialis anterior and posterior muscles. Lumbar plain radiographs showed unilateral multiple transverse process fractures (L1–L5 on the right) and almost total anterolisthesis of L5 over S1. Computed tomography scans demonstrated severe (grade 4) anterior slippage of the L5 vertebra with an intact L5–S1 intervertebral disc and preserved physeal cartilage of the S1 superior end plate (Fig. 1).
+
+The patient underwent L5–S1 laminectomy, reduction, and posterolateral fusion 3 days after injury. Intraoperatively, the L5–S1 intervertebral disc was confirmed to be intact, and the torn S1 physeal cartilage was reduced concomitantly with correction of the slippage. Postoperatively, lower limb muscle power improved to grade 5, and sensation returned to normal. A second operation was performed 3 years later to remove the internal fixation. At 6.5 years after the primary surgery, radiographs showed that the heights of L5 and S1 had slightly increased (by approximately 2 mm) compared with those at the initial injury. Lumbar magnetic resonance imaging demonstrated a repaired L5–S1 intervertebral disc. Notably, a mild primary lumbar scoliosis appeared 2 months after surgery and remained stable at 27° from 3 years postoperatively (Fig. 2).
+
+## Discussion
+
+Traumatic lumbosacral spondylolisthesis in children is extremely rare [1,2]. In the developing spine, a zone of relative weakness exists at the junction between the physeal cartilage and vertebral body ossification [3,4]. In this patient, a drastic tangential force likely resulted in a Salter–Harris type I physeal injury. Posterior reduction allowed restoration of the avulsed physeal cartilage. For reconstruction, posterolateral fusion was selected instead of the commonly recommended interbody fusion to avoid damage to the anterior column growth plate. Consequently, the intervertebral disc was repaired, and longitudinal growth of the vertebral bodies was well preserved (Fig. 2).

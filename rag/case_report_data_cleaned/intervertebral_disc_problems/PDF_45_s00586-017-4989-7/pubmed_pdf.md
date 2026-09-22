@@ -1,0 +1,25 @@
+# Osteochondral loose body: an unusual cause of lumbar spinal stenosis
+
+## Abstract
+Lumbar spinal stenosis is most often a degenerative condition observed in the older population. We describe the case of a lady with typical claudicant symptoms with an unusual cause of stenosis identified at the time of her decompressive surgery. On review of the literature this is only the second case of an osteochondral loose body as a cause for lumbar spinal stenosis and thus remains a rare phenomenon.
+
+## Background
+Central lumbar spinal stenosis leads to a variable syndrome of back and leg pain due to thecal sac compression. Males are more commonly affected than females and this is most often a degenerative phenomenon seen in the older population. In this subset of individuals, spinal canal narrowing is commonly due to facet joint hypertrophy, buckling of the ligamentum flavum, degenerative spondylolisthesis, or a combination of these pathologies.
+
+Composed of cartilage alone or cartilage and bone, intra-articular loose bodies result from any process that leads to disruption of the articular surface. They derive nutrition from synovial fluid and contain cells of bone or cartilage. The surface cells form more cartilaginous layers, enlarging the body over time. Deeper cells receive less nutrition, resulting in cell death and calcification [1]. Such loose bodies tend to be found in articulations such as the knee or hip joint. There are two reports in the literature of loose bodies in the cervical spine, one asymptomatic [2] and the other a cause for cervical myelopathy [3]. To our knowledge, this is the third reported finding of a loose body in the lumbar spine. The first case reported is similar to our own, with a single-level symptomatic stenosis [4]. The second case describes multiple loose bodies associated with a symptomatic lytic spondylolisthesis [5].
+
+## Case Presentation
+We introduce a 64-year-old female who presented with classic symptoms of spinal claudication. Her claudication distance was variable, occurring between a couple of dozen and a couple of hundred yards, leading to pain radiating over the buttocks and down the backs of the legs. This was significantly impairing her quality of life, preventing her from shopping and threatening her independence. She would sit to relieve the pain, and the time taken for the leg pain to subside varied between a few minutes and up to an hour. Back pain was a minor component of her symptoms. She did not describe any sinister features or symptoms suggestive of cauda equina syndrome.
+
+Her past medical history was largely unremarkable. She had no problems with her peripheral vasculature, was not diabetic, epileptic, or asthmatic, and had no history of strokes or heart attacks. She was hypertensive, but this was well controlled with medication.
+
+On examination she walked with a normal reciprocal gait and could walk both on her heels and on tiptoes. She demonstrated an exacerbation of her pain when attempting to stand fully upright. She had no elicitable reflexes in the lower limbs and no long tract signs. There were no nerve root tension signs.
+
+Magnetic resonance imaging of her lumbar spine demonstrated multilevel degenerative change with a grade 1 degenerative spondylolisthesis at L3/4, causing effacement of the cerebrospinal fluid from the cauda equina at this level.
+
+Management options were discussed with the patient, who decided to proceed with lumbar decompressive surgery. At the time of operation she was positioned prone on Oswestry cushions and a standard lumbar decompression was performed. During exposure, the L3 spinous process was found to be mobile, and a large loose osteochondral fragment, approximately the size of a thumbnail, was discovered lying on the left side of the spinal canal beneath the lamina.
+
+On the first postoperative morning, the patient was neurologically intact, independently mobilising, and was discharged home later the same day without complication. At follow-up in the outpatient clinic three months later, she reported no complications and was delighted that her leg pain remained resolved.
+
+## Discussion
+We describe the second case in the literature of a single loose body as a cause of lumbar spinal stenosis. The relatively short onset of leg symptoms on a background of longstanding lumbar back pain, alongside the immediate postoperative relief of leg pain, correlates with the loose body being the causative factor for her spinal claudication, as no other compressive areas were found intraoperatively. As in the spinolith described by Tambe et al. [4], the origin of this loose body remains uncertain. However, given the grade 1 degenerative spondylolisthesis, we postulate that facet joint hypertrophy was the original source of the osteochondral fragment. There is, of course, a possibility that the origin was the mobile spinous process; however, as this was intact at its base and mobile only outside the spinal canal, this is considered unlikely.

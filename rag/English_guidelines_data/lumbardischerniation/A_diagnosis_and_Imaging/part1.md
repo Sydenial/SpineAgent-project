@@ -1,0 +1,17 @@
+# IV. Recommendations for Diagnosis and Treatment of Lumbar Disc Herniation with Radiculopathy
+
+## A. Diagnosis and Imaging
+
+### Assessing Evidence for Diagnostic Tests
+
+Assessing the evidence for diagnostic tests poses some difficulties that are not seen in therapeutic studies. In the assessment of diagnostic tests, both the accuracy and the effect of testing on the outcome should be considered. The accuracy of a diagnostic test refers to the ability of the examination to detect and characterize pathologic processes. Accuracy is typically expressed in terms of sensitivity and specificity—sensitivity referring to the proportion of patients with the target disorder who will have a positive test, and specificity to the number of people without the disease who have a negative test. With tests that have a high sensitivity, a negative test effectively rules out the disease. With tests that have a high specificity, a positive test effectively rules in the disease.
+
+The performance of a test in a given population can also be stated in terms of positive and negative predictive value, which depends directly on the prevalence of disease in the tested population. In populations with a high prevalence of disease, a test with a high accuracy will accurately predict the presence of disease. Conversely, the same test result will yield a large percentage of false positives in patient populations with a low incidence of disease (such as an asymptomatic population). One of the purposes of a history and physical examination is to increase the prevalence of disease in patients sent for advanced imaging/testing or offered surgery. For this reason, in our systematic review, we have attempted to identify those symptoms or findings which have a high likelihood ratio for lumbar disc herniation with radiculopathy—those symptoms or findings expected in patients diagnosed with lumbar disc herniation with radiculopathy but not in those who do not have the condition. The use of these criteria should increase the prevalence of this disease confirmed by cross-sectional imaging or surgery.
+
+Cross-sectional imaging exams have a low intrinsic specificity as evidenced by a significant incidence of pathologic findings in asymptomatic populations. The results of any cross-sectional examination need to be closely correlated with the clinical examination. As a result, the accuracy of a spine MRI or CT should incorporate the ability of the test to directly visualize neurologic structures and the effect of pathologic processes on these structures. Direct visualization of intrinsic neurologic processes and neural impingement is of obvious importance in determining the etiology of radicular symptoms.
+
+The gold standard in the majority of the studies confirming the presence of a herniated disc was cross-sectional imaging and/or surgery. The gold standard in the diagnosis of lumbar disc herniation is surgery; however, when assessing the validity of subjective complaints or physical examination findings, use of cross-sectional imaging as a gold standard may be considered an acceptable substitute. The validity of surgery as a gold standard can be questioned, however, as findings at surgery can be subjective.
+
+### Future Directions for Research
+
+Additional sufficiently-powered observational studies of history/physical examination findings and diagnostic tests are needed to determine their value in influencing treatment assignment and outcome in patients with lumbar disc herniation with radiculopathy.

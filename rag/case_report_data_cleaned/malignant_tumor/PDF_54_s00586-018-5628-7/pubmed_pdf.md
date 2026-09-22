@@ -1,0 +1,54 @@
+# Radiofrequency ablation of ideas and technique
+
+## Abstract
+
+### Purpose
+To use radiofrequency ablation (RFA) in the resection of C4 cervical chordoma with giant paravertebral tumor mass to achieve tumor-free exposed margins and perform a gross total excision.
+
+### Methods
+A gross total excision using combined posterior and anterior approaches was performed. In the posterior stage, the C4 posterior arch was removed and the C4/C5 nerve roots and vertebral artery were released from the tumor. In the anterior stage, the giant soft mass of tumor from C3 to C6 was treated with RFA to make it shrink and solidify, visually achieving tumor-free exposed margins. This approach allowed implantation of a titanium plate and mesh filled with allograft bone.
+
+### Results
+A gross total excision was performed with tumor-free exposed margins and a wide margin. The patient survived more than 5 years without recurrence.
+
+### Conclusions
+RFA can help achieve tumor-free exposed margins. A gross total excision combined with RFA can improve the local relapse-free survival of patients with cervical chordoma.
+
+### Keywords
+Cervical chordoma · Radiofrequency ablation · Tumor-free margin
+
+## Introduction
+
+Chordomas are slow-growing, rare malignancies restricted to the axial skeleton [1], and the cervical region is the second most common site of spinal chordomas [2]. Incomplete resection of these chordomas is associated with an increased risk of local recurrence and shorter survival [3].
+
+Chordomas tend to invade neighboring soft tissues and vital anatomical structures like neural elements and the vertebral arteries [4]; furthermore, the anatomical structures surrounding the cervical spine make precise resection with clean margins very difficult. Size of the tumor is a negative prognostic factor for both local relapse-free survival (LRFS) and overall survival (OS), as identified by Stacchiotti et al. [5], while the margin of resection in the initial surgery appears to be a critical factor affecting the final outcome of patients with chordoma [1].
+
+Patients with chordomas ultimately die from the disease because of tumor recurrence or progression [6]. However, intralesional excisions are preferred in the treatment of chordomas of the cervical spine to protect the adjacent critical structures, even though it is associated with high recurrence rates owing to implantation [7]. Therefore, it is quite difficult to obtain tumor-free exposed margin of chordomas in a soft tissue mass of the cervical spine. The key point is to release the tumor from the surrounding tissue and visually define the margins and the relevant structures that need to be saved or sacrificed [8]. Radiofrequency ablation (RFA) is widely used in various tumors and is considered an effective palliative treatment that improves the treatment outcomes [9]. We attempted to use RFA in an open operation of cervical chordoma, to achieve a tumor-free exposed margin and, thereafter, perform a gross total excision of the tumor.
+
+## Methods and technique
+
+A 40-year-old man with a 14-month history of mild neck pain complained of its aggravation over the last 6 months. This symptom had occurred without any obvious cause and was misdiagnosed by a local hospital. Although the neck pain worsened after 6 months since its onset, both sensory and motor functions were normal with negative pathological character (Hoffmann's sign). Radiographic studies revealed osteolytic destruction of the C4 vertebral body along with pathological fracture, while magnetic resonance imaging (MRI) revealed a giant paraspinal extradural soft tissue mass that was compressing the dural sac (Fig. 1a, b), without any invasion of the posterior component.
+
+After being transferred to our center (July 20, 2011), the patient underwent CT-guided fine-needle biopsy, and the pathological diagnosis was chordoma. Subsequently, we planned the operation based on the edges and shape of the tumor. A gross total excision was performed in two stages: first stage with the posterior approach and second with anterior approach.
+
+In the first stage, the posterior elements of C3–C5 were exposed. After partial resection of the inferior and superior articular processes of C3 and C5, respectively, both sides of C4 were dissected anterolaterally to remove the whole C4 posterior arch, expose the C4/C5 nerve roots, and release the vertebral artery. Fixation was achieved using a pedicle screw in C2–C3 and lateral mass screws between C5 and C7.
+
+Seven days later, we performed the second stage of anterior tumor resection and vertebral reconstruction. We visualized the giant soft mass of tumor (length × width × depth, $3.67\times3.83\times1.6~\mathrm{cm}$, soft, dull red, relatively vascular) that bulged outwards. After conventional exposure to prevertebral from C3 to C6 (Fig. 1c), the tumor capsule was found to adhere to the surrounding tissue which was still intact, before locating the proximal and distal intervertebral disks.
+
+To shrink the tumor and achieve tumor-free exposed margins, we used RFA (Fig. 1d) (cool-tip RF ablation system, temperature 24 C) to penetrate the tumor. After ablation for 12 min with a 1-cm model electrode, the tumor shrank and solidified ($3.23\times3.46\times0.8~\mathrm{cm}$, mildly firm, burned black) (Fig. 1e). There was no serous outflow noted from the extralesional space, denoting marginal resection. Discectomies of C3–C4 and C5–C6 were performed behind the posterior longitudinal ligament, followed by corpectomy of C5. The vertebral arteries were dissected free of the C4 vertebral body and anterior tubercles. Marginal resections of C4 body, bilateral epibiotic, and chordomas were performed with the posterior longitudinal ligament at the level of C4 (Fig. 1f). After flushing with distilled water and diluted cisplatin, a titanium plate and mesh filled with allograft bone was placed between C3 and C6 vertebrae. After verifying their proper positions, the wound was closed normally.
+
+The diagnosis of chordoma was pathologically verified, and it showed the typical physaliphorous cells characteristic of chordoma with a myxoid matrix. The tumor cells were arranged in nests, with small nuclei and enormous amounts of cytoplasm (Fig. 2a). No tumor cells were found in the anterior edge of the C3 and C5 vertebral body; simultaneously, the skip lesions in muscles had been excised (Fig. 2b). Two days after the second stage of the procedure, the patient developed C5 root palsy, which improved after several weeks. The patient regularly received radiotherapy at our center. Clinical follow-ups were conducted at 3, 6, 12, 18, and 24 months and annually thereafter (Fig. 3a–c). At 6 years after the surgery at the last follow-up, the MRI scan shows that the resection of the tumor was complete (Fig. 3d, e) and the patient had lived without recurrence.
+
+## Discussion
+
+The radiological features of cervical chordomas include paraspinal soft tissue mass with clear margins, and heterogeneous high signal intensities and muscle infiltration on MRI [10, 11]. Currier et al. [12] described total en bloc spondylectomy of C5 vertebra in chordoma. Although it is feasible in malignant tumors of the cervical spine, there are many challenges due to the invasion of the surrounding anatomical structures such as the vertebral arteries, cervical spinal cord, nerve roots, and pedicles [13]. With challenge and difficulty in marginal resection, intralesional piecemeal excisions of tumors in the cervical spine are also performed [14].
+
+In cervical chordomas, tumor-free exposed margins are achieved by keeping the tumor capsule intact, which is a prerequisite for complete resection of the tumor. If the planned margins cannot be exposed, the exposed surgical margins are considered intralesional. Our previous findings have demonstrated that exposed surgical margin is a prognostic factor of LRFS in cervical chordomas [15]. However, in our experience, it is hard to achieve tumor-free exposed margins when the size of the tumor in cervical chordoma is large and it invades the paravertebral soft tissues [15]. RFA is feasible and can be performed safely in solid brain tumors when conventional treatments such as surgery, radiation therapy, and chemotherapy are difficult to perform [16]. Neeman et al. [17] first performed percutaneous RFA in the treatment of chordoma, and their results revealed that RFA could shrink the size of the tumor. MR-guided RFA via multiplanar viewing facilitates safe direct access to the tumor [18]. In this case, RFA was performed first in a gross total excision of cervical chordoma under direct visualization, which was simple and safe. This report demonstrates that RFA can solidify and reduce the size of the tumor without extravasation until the edges are exposed thoroughly. This technique can achieve tumor-free exposed margins in cervical chordoma with a giant paravertebral tumor mass.
+
+The traditional operation in cervical chordomas is intralesional resection. Except cell contamination, there are many challenges when the tumor is exposed and resected with intralesional margins, such as uncertain tumor-free margins and exposure of the vertebral artery to remove the tumor around the lateral mass joint. The use of T-saw is believed to minimize tumor cell contamination in the resection of cervical chordomas [12]; however, it does not help to achieve tumor-free exposed margins. Furthermore, the T-saw is useless in releasing the vertebral artery, especially in case of a giant tumor mass invading the lateral mass joint. Our experience with RFA in surgery has shown that it can minimize tumor cell contamination too. This patient did not develop local relapse for more than 5 years after surgery. Therefore, RFA can be appropriately applied in gross total excision of cervical chordomas with a giant paravertebral tumor mass.
+
+Although this is the first application of RFA in gross total excision of cervical chordoma to the best of our knowledge, there were several limitations of this report as follows: (1) the indications of RFA were worth discussing; in our center, the invasive paravertebral tumor mass of chordoma which affects the tumor-free margin and exposure could be used; (2) though RFA can reduce the tumor cell contamination, it requires further theoretical and technical research; and (3) although the tumor did not relapse or produce a tumor contamination, from the view of oncological point, RFA was still an invasive technique and had the possibility of a tumor contamination of neighboring tissues.
+
+## Conclusion
+
+RFA in cervical chordoma has the benefits of simple and safe visualization, and achieving tumor-free exposed margins, which can improve LRFS of a patient with cervical chordoma.

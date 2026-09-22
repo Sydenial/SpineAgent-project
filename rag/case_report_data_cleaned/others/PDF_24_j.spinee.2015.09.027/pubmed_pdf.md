@@ -1,0 +1,5 @@
+# IMAGES OF SPiNE CARE
+
+## Vertebral fusion and bony obliteration of intervertebral discs in a neurofibromatosis type 1 patient
+
+A 40-year-old woman with a decade-old scoliosis aggravated with upper back pain and dyspnea of 2 year's duration was admitted to our clinic. Physical examination revealed multiple cutaneous neurofibromas and café-au-lait macules. Freckling was observed in the axillary region. On neurologic examination, an abnormal thoracic curve and "razor back" deformity were found. The coronal computed tomography scan showed a thoracic dextroscoliosis with rare vertebral fusion and bony obliteration penetrating the intervertebral discs between T4 and T5 and T5 and T6. The patient was diagnosed with dystrophic scoliosis secondary to neurofibromatosis type 1. Surgical intervention was performed, and the outcome was satisfactory.

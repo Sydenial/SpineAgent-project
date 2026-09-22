@@ -1,0 +1,50 @@
+# Acute celiac artery compression syndrome after extensive correction of sagittal balance on an adult spinal deformity
+
+## Abstract
+
+**Purpose**  
+To describe the first case of a patient who developed acute celiac artery compression syndrome (ACACS) after extensive correction of sagittal balance on an adult spinal deformity.
+
+**Methods**  
+A 77-year-old woman presented with low back pain and spinal kyphosis deformity. We performed a two-stage correction with extreme lateral interbody fusion (XLIF), and her lumbar lordosis improved from $-47^{\circ}$ to 53°. However, after surgery, she experienced frequent vomiting and diarrhea. Contrast-enhanced computed tomography showed marked narrowing of the abdominal aorta at the L1/2 level, and both the celiac artery and superior mesenteric artery were compressed. Therefore, emergency surgery was performed. After laparotomy, we found that the small bowel exhibited an unfavorable color and that peristalsis had stopped. The aorta was compressed from the anterior direction at the upper side of the renal arteries. The median arcuate ligament (MAL) and celiac plexus were responsible for the compression. After the compression was relieved, the small bowel color and peristaltic activity improved.
+
+**Results**  
+Postoperatively, there was no recurrence of abdominal symptoms. The patient could walk with a walking frame from 3 weeks postoperatively.
+
+**Conclusion**  
+ACACS is a life-threatening complication, and therefore, it is very important that ACACS is diagnosed and treated early. Spinal deformity surgeons should be aware of the possible occurrence of this condition after extensive correction of sagittal balance on adult spinal deformity.
+
+## Introduction
+
+The celiac artery passes under the median arcuate ligament (MAL), which lies between the left and right diaphragmatic crura, and supplies blood to the stomach, gallbladder, spleen, pancreas, and liver. However, the MAL may compress the celiac artery because of various conditions, and this compression may cause acute celiac artery compression syndrome (ACACS). ACACS results in ischemia of the intra-abdominal organs, and thus, there is a risk of organ perforation and peritonitis if diagnosis and treatment are delayed. ACACS may occur secondary to spinal kyphosis correction that causes a change in the anatomical relationship between the MAL and the celiac artery. However, very few reports on the occurrence of ACACS after spinal deformity surgery have been published.
+
+In extreme lateral interbody fusion (XLIF), the large interbody cage is inserted with minimal muscle dissection and disruption to ligamentous structures, using a split blade retractor, and this allows minimally invasive restoration of disk height and correction of sagittal and coronal deformities. The technique has been increasingly used in the last decade for sagittal correction and degenerative scoliosis. However, this technique has the potential risk to extend the rigid and degenerative spinal deformity.
+
+Here, we report the first case of a patient who developed ACACS after extensive correction of sagittal balance on an adult spinal deformity.
+
+## Case presentation
+
+A 77-year-old woman presented with low back pain and spinal kyphosis deformity. Spinal deformity was detected at another hospital, and she was referred to our hospital for surgery. She had a history of reflux esophagitis and osteoporosis and was on oral medications for both conditions. She could walk on crutches but was unable to walk for long periods due to low back pain. Her muscular strength was not reduced, and she experienced numbness from the right gluteal region to the lateral side of the lower extremities. Plain radiographs revealed a high-grade kyphotic deformity with a lumbar lordosis (LL) of −47° and a sagittal vertical axis (SVA) of 20.1 cm, indicating poor global alignment. We planned a two-stage correction of the anterior and posterior spinal elements. We first performed XLIF from L1/2 to L4/5, and we did not release the anterior longitudinal ligament (ALL), which corrected her LL from $-47^{\circ}$ to $-4^{\circ}$.
+
+One week later, we performed posterior correction. Before the correction, we performed Smith-Petersen osteotomy (SPO) at L1/2, L2/3, L3/4, and L4/5 levels. Then, after that, we performed posterior correction by cantilever technique and spinal fusion from T10 to the ilium. Her LL improved from −4° to 53°.
+
+After extubation, she experienced frequent vomiting and diarrhea; therefore, plain radiography and contrast-enhanced computed tomography (CT) were performed. The plain radiograph showed vertical bone fractures in the anterior part of the vertebral body of L2, L3, and L4, and ALL rupture at L2/3 with downward movement. The contrast-enhanced CT image showed marked narrowing of the abdominal aorta at the L1/2 level, and both the celiac artery and superior mesenteric artery (SMA) were compressed. We suspected ischemic changes owing to poor contrast-enhancement of the liver and noted extensive edema of the small bowel. Her vital signs were stable, but vomiting and diarrhea continued.
+
+Contrast-enhanced CT was repeated 5 hours later, and no progression of ischemia in the foregut organs or improvement in arterial stenosis was noted. Therefore, emergency surgery was performed. After laparotomy, we found that the small bowel had an unfavorable color and that peristalsis had stopped; however, no bowel necrosis was noted. We also noted findings suggestive of hepatic ischemia. The aorta was compressed from the anterior direction at the upper side of the renal arteries. The MAL and celiac plexus were responsible for this anterior compression, and we diagnosed the patient with ACACS.
+
+After the elements were separated and compression was relieved, the small bowel color and peristaltic activity improved. Therefore, we believed that revascularization was not required, and we concluded the surgical procedure. We performed contrast-enhanced CT on postoperative day 1, and noted that the aortic stenosis had disappeared. In addition, the celiac artery and SMA were visualized. Postoperatively, she was managed with intravenous hyperalimentation. Oral intake was allowed from 10 days postoperatively. No recurrence of abdominal symptoms was noted after the procedure, and she resumed normal dietary intake from 5 weeks postoperatively. Her low back pain also improved. She could walk with a walking frame from 3 weeks postoperatively, and she was transferred to another hospital for rehabilitation at 7 weeks postoperatively. No recurrence was noted at 6 months postoperatively, and radiographs showed no correction loss.
+
+## Discussion
+
+Changes to the anatomy of the abdominal vasculature after spinal deformity surgery have been well documented, with SMA syndrome being the most common manifestation. SMA syndrome is comparatively benign and resolves with nasogastric suction and nutritional support. However, very few reports on ACACS after correction of adult spinal kyphosis have been published. ACACS can lead to necrotizing ischemia of the foregut abdominal organs if it remains undetected.
+
+Daniels et al. reported the occurrence of ACACS after single-stage anterior release and posterior spinal fusion to treat Scheuermann kyphosis. In addition, von Glinski et al. reported ischemic hepatic injury caused by ACACS that occurred after anterior and posterior spinal fusion to correct a post-traumatic gibbus deformity. In the present case, we first corrected the kyphotic deformity by performing XLIF from L1/2 to L4/5, and the lumbar spine was lengthened. However, as the right and left diaphragmatic crura were anteriorly attached to the vertebral bodies of L1-3 and L1-2, respectively, they were both pulled downward. We then extended LL from the posterior direction, and this caused further downward movement of the bilateral crura and MAL, resulting in stenosis of the celiac artery. However, the presence of an anatomical variant, such as a low-lying MAL attached to the diaphragmatic crura in a lower position than normal, cannot be ruled out. In such cases, the risk of ACACS occurring after correction of kyphosis is high. According to aging, spinal flexibility is getting worse, and degenerative changes appear in the blood vessels and the neuromuscular system. We should remind the potential risk to induce ACACS by extending the rigid and degenerative spinal deformity. To the best of our knowledge, this is the first report of the development of ACACS after extensive correction of sagittal balance on adult spinal deformity.
+
+In the present case, early diagnosis and surgical intervention for ACACS helped avoid severe necrotizing ischemia of the foregut abdominal organs. The recommended treatment for ACACS is surgical decompression. Angiography is the gold standard for ACACS diagnosis; however, the procedure is difficult to perform in the early stages of ACACS because of vomiting and diarrhea. Recently, some reports have presented the benefits of abdominal Doppler ultrasound and contrast-enhanced CT for ACACS diagnosis. In the present case, we obtained a favorable outcome after rapid surgical treatment for ACACS, because ACACS was diagnosed at an early stage using contrast-enhanced CT.
+
+In conclusion, we reported the first case of a patient who developed ACACS after extensive correction of sagittal balance on adult spinal deformity. ACACS is a life-threatening complication, and therefore, it is very important that ACACS is diagnosed and treated early. Spinal deformity surgeons should be aware of the possible occurrence of this condition after extensive correction of sagittal balance on adult spinal deformity. Patients with abdominal symptoms after spinal deformity surgery should be evaluated using contrast-enhanced CT.
+
+## Compliance with ethical standards
+
+**Conflict of interest**  
+The authors declare that they have no conflicts of interest.

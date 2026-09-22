@@ -1,0 +1,100 @@
+# Successfully Treated Transoral Crossbow Injury to the Axial Spine Causing Mild Neurologic Deficit: Case Presentation
+
+## Abstract
+
+**Purpose** To detail the management, complications and results of a crossbow arrow injury, where the broadhead went through the mouth, tongue, soft palate, C2 vertebra, spinal canal, dural sack, exiting the neck posteriorly and the arrow shaft lodged in the spine causing mild spinal cord injury.  
+**Methods** Case presentation.  
+**Results** A penetrating axial cervical spine crossbow injury was treated successfully in spite of the following interdisciplinary complications: meningitis, cerebrospinal fluid leakage, re-bleeding, and cardiac arrest. The shaft was removed from the neck, and C1–3 dorsal stabilization was performed. Controlled Computed Tomography (CT) showed adequate implant position. After 4 months the patient's fine motor skills improved, and he became able to button his shirt on his own, and to eat and drink without any help. Additionally, he was able to walk without any support. At the time of control at the outpatient clinic his behavior was adequate: he cooperated with the examining doctor and answered with short sentences although his psychomotor skills were slightly slower.  
+**Conclusions** Although bow and crossbow spine injuries are rare nowadays they still occur. The removal of a penetrating missile resulting in such a spinal injury required a unique solution. General considerations, such as securing the airway, leaving the penetrating arrow in the neck and immobilizing both the arrow and neck for transport, thorough diagnostic imaging, preventing cerebrospinal fluid leakage, administering prophylactic antibiotics with broad coverage and stabilizing the spine if required, are advised.
+
+**Keywords** Arrow · Spinal injury · Crossbow · Axial spine · Transoral
+
+## Introduction
+
+This case report presents a suicide attempt (a severe cervical spine injury case caused by a crossbow arrow fired at close range) with its complications, treatment and results. A crossbow spine injury is an extremely rare event: there have been only four arrow-caused cervical spine injury reports known in medical literature: two are crossbow arrow injuries, one is from the modern age, and one was in medieval times [1, 2]. The other two injuries [3, 4] were from other types of bows. In none of these previous cases did the crossbow arrow completely penetrate the neck and the spinal canal, splitting the C2 vertebra with the patient remaining alive.
+
+In the case report of crossbow injury in the modern age [1] the arrow penetrated the oral cavity and stopped in the spinal canal, passing between the dens and lateral mass of C1 vertebra and bypassing the spinal cord. In this case the arrow broadhead, which penetrated the mouth and pierced the tongue, caused a dens fracture and sagittal splitting of the body of C2 vertebra. The arrow continued through the neck and exited posteriorly, with the shaft remaining lodged in the spine.
+
+## Case presentation
+
+A 57-year-old male, attempting suicide, shot himself in the mouth at close range with a crossbow. The broadhead went through the patient's mouth and exited posteriorly through his neck, with the shaft lodging in the patient. The ambulance crew found the patient conscious, and laid him on his side as the arrow prevented a supine position. The patient's head was supported and stabilized by bubble wrap on site, and he was transported to the hospital's emergency department.
+
+At the time of admission the patient was somnolent and was able to communicate only by moving his limbs, eyes, and eyelids. He was able to move all his extremities against gravity, and major palsy was not detected. The patient was sedated and a tracheotomy was performed, through which artificial ventilation was begun. Both the broadhead and the end of the arrow were removed by cutting them from the shaft; however, the middle section of the arrow remained in the patient.
+
+Complex head and cervical spine CT scanning was performed, and scans showed the lodged arrow shaft running through the cavity of the mouth and pharynx, penetrating the tongue, soft palate, C2 vertebra and spinal canal, and finally partially protruding from the neck posteriorly. The artifact caused by the shaft made the CT scan evaluation difficult, although it showed the arrow penetrating the C2 vertebra at the junction of the dens and body, causing the sagittal split of the C2 body and a Type II dens fracture could be suspected. From the posterior cortex of the body of the C2 vertebra the broadhead penetrated the spinal canal on the right side, between the C1 posterior arch and C2 lamina.
+
+## Procedure
+
+The patient was transported to the operating room (OR) for surgery after blood tests were conducted, where a halo brace was placed on him in the supine position while his head with the protruding shaft was held by an assistant. The halo frame prevented the posterior end of the shaft from touching the table in the supine position. After repositioning the patient to the prone position both lateral sides of the halo frame were elevated from the table with padding which kept the ventral end of the shaft from coming in contact with the table.
+
+He was then given prophylactic antibiotics intravenously. A posterior cervical surgery approach was then performed. Instead of the routine midline skin incision a slightly curved incision was applied involving the outlet of the shaft. After the midline dissection of ligamentum nuchae the injured trapezius, splenius capitis and semispinalis capitis muscles were cut transversely until the shaft on the right side lay exposed. This transection allowed for the subperiosteal detachment of the muscles from the spine. The spinal exposure was accomplished from the occiput to C6 vertebra, exposing the shaft which lay in the spinal canal between the C1 posterior arch and the C2 lamina on the right side, piercing the atlanto-axial posterior membrane.
+
+A C2 laminectomy was performed, after which the posterior dural tear caused by the broadhead was observed. The spinal cord was observed via the dural opening and appeared to be intact. The shaft lay adjacent to the spinal cord in the spinal canal. Using extreme care the shaft was pulled out in the direction of the back of the neck.
+
+The dural tear was at the lateral side and was not surgically suturable, and there was a massive intradural and seemingly venous bleeding coming from cranial direction of the dural tear. To identify the source of the bleeding the C1 posterior arch was removed and an additional midline dural incision was made. The dural incision was continued to the posterior margin of the foramen magnum. The majority of the bleeding originated from the ventral venous plexus, which was stopped by absorbable gelatin (Spongostan) placed anteriorly to the spinal cord. The Spongostan was meant to close the ventral dural opening as well in addition to the sutures of the mucous membrane in the oral cavity provided in the second phase of the procedure.
+
+The additional dural incision was sutured, and this area and the dural tear caused by the crossbow arrow was covered by fibrin sealant patch (TachoSil) with an additional Spongostan layer. A C1–3 dorsal vertebral stabilization was considered because the injury of the C2 vertebra was deemed to be a Type II dens fracture combined with the sagittal split of the C2 body, and because the left C2 pedicle screw was deemed to be unstable due to looseness. C1 and C3 lateral mass screws and C2 pedicular screws were inserted (the left pedicle also received a screw), after which a stable C1–C3 dorsal fixation was constructed. The C1 lateral mass and C2 pedicular screws were intentionally bicortically placed.
+
+The skin wound caused by the arrow was excised to receive a fresh skin edge, and drains were left in the wound without vacuum suction. After a routine closure of the posterior cervical wound the patient was repositioned in the supine position. There was no significant bleeding from the oral cavity wound during the whole procedure. An ear, nose and throat (ENT) specialist coagulated the tongue and the soft palate wound by bipolar forceps, and closed the pharyngeal mucous membrane wound by absorbable sutures.
+
+The halo brace was removed immediately after the procedure, and the patient was transferred to the intensive care unit, where a lumbar drain was inserted to divert the cerebrospinal fluid (CSF).
+
+## Postoperative management and complications
+
+Due to the pharyngeal injury the patient was fed through a nasogastric tube and received fluids intravenously. Intravenous prophylactic antibiotics were continued.
+
+Sedation (Propofol) was stopped on the first postoperative day after which the patient regained consciousness and was able to communicate with gestures and articulation with his mouth and became able to drink, beside the tracheostomy. Colleagues from the ICU did not observe palsy, and the patient was transmitted to the neurosurgery department on the same day. After transmission he was found disoriented and agitated, and although he had no major palsy his fine motor movements were impaired, combined with mild ataxia. He had normal deep tendon reflexes and there was no Babinski sign. As far as it could be determined during an examination he did not have any alteration in sensation, although the examination was limited by his confusion and agitation.
+
+A control CT scan confirmed appropriate screw position and confirmed the earlier only suspected Type II dens fracture. Despite prolonged antibiotic prophylaxis, meningitis and fever evolved on the second postoperative day, and the intravenous antibiotic spectrum was broadened and finally was changed to specific antibiotic treatment according to the CSF culture and blood culture results (E. coli). With the improvement of the meningitis the patient became oriented.
+
+## First reoperation
+
+Nine days after the original surgery the patient's neck swelled massively posteriorly in a short time which suggested a hemorrhage in the dorsal cervical wound. CT angio was performed because vertebral artery injury was suspected, but there was no sign of any vertebral artery damage. The re-bleeding proved to be an epidural one providing mass effect. Although the patient's neurological status did not worsen, the epidural bleeding with its significant size threatened the spinal cord by compression, therefore emergency surgery was performed.
+
+The dorsal cervical wound was reopened and after removal of the intermuscular and epidural blood clot, severe bleeding started between the occiput and the C1 posterior arch on the left from the direction of the vertebral artery (note: the broadhead went through the right half of the spinal canal). Hemodynamic instability occurred, and since there was no chance to adequately dissect and identify the left vertebral artery, which was a potential bleeding source, Ligaclips were placed on the site where the left vertebral artery courses on the posterior arch of the C1 vertebra (pars atlantica). The bleeding stopped and several minutes later a hemodynamic collapse occurred. The patient was then turned to supine position and reanimation was started. His pupils dilated and became nonreactive to light; however, after 8 min of complex reanimation circulation was restored.
+
+After staying stable for a while, the patient was turned to prone again. The wound remained open during the reanimation for more than 1 h and the bleeding did not restart, even after his blood pressure was normalized. There was no sign of CSF leakage. The wound was quickly rinsed by antiseptic agents and physiological saline and was closed layer by layer over two drains without vacuum suction.
+
+There was no benefit in extending the length of the surgery to look for the source of the bleeding since it already stopped and the supposedly vertebral artery clip had already been in place long enough to cause an ischemic stroke if disturbed, hence the removal of it and a possible suturing attempt on closing an injured vertebral artery was out of question.
+
+The patient was transferred to the intensive care unit again. The patient regained his consciousness and moved all of his extremities. The patient squeezed his hand adequately as directed, and his cardiopulmonary status remained stable. Two days after the event the patient was admitted to the neurosurgery department with the same senso-motor neurological condition that he had after the injury and prior to the reanimation. At this time the patient was observant of his surroundings and behaved adequately, although he did not cooperate with the treating nurses and doctors. The patient's orientation and cooperation with the treatment stayed unsteady afterwards.
+
+On the 16th postoperative day the dorsal neck wound started to ooze fluid although the patient still had a lumbar drain (it was changed multiple times during the treatment). The fluid continued to ooze after enhancing the CSF output when resetting the lumbar drainage system. The fluid which the wound discharged seemed to be CSF so revision surgery was performed.
+
+## Second reoperation
+
+The original dural tear proved to be the source of the CSF leakage. The dural tear was sutured as best as the torn edges made possible. The remaining hole was covered by TachoSil, and a muscle patch was sutured over this dural site. The patch was then covered by another new TachoSil sheet, and more DuraSeal (Dural Sealant System—a polyethylene glycol ester solution and a trilysine amine solution) was put on and around the TachoSil to provide an additional waterproof layer. The muscles, fascia, and cutaneous skin layers were sutured again to ensure that each suture line was shifted onto the next. A new lumbar drain was inserted.
+
+A control CT angio or MRI scan was not performed since the patient did not develop symptoms of the occlusion of the left vertebral artery, and the neurological condition of the patient was improving. After the second reoperation the wound healed, without a CSF fistula and the patient's fever receded. The tracheostomy tube was removed on the 30th postoperative day, after which the patient was fed through a nasogastric tube further for 2 days only. After the third postoperative day he was permitted to take water orally, and his nasogastric tube was removed on the seventh postoperative day, although he was still permitted to take only fluids. He also received intravenous nutrition, and was allowed to eat on the 35th postoperative day.
+
+After his physical wounds had healed the patient was transferred to the psychiatric department, with improving fine motor skills and coordination without rough palsy and in a vigilant condition with changing orientation. Communication with the patient became possible by the time of his being moved to the psychiatric department, as he was able to articulate words and express himself with gestures and mimics.
+
+## Outpatient clinical control
+
+Six weeks after the injury the patient became mostly oriented although he was still under psychiatric treatment. At the time of evaluation at the outpatient clinic his behavior was adequate and he cooperated with the examining doctor, although his psychomotor skills had decreased slightly. He answered with short sentences, and was able to walk without any support.
+
+At the final follow-up, 4 months after the injury, the patient's behavior did not change compared to the previous control. He was almost completely oriented, and was able to recognize the examination situation. He had amnesia about the treatment in our hospital but he remembered some details of his suicide attempt. He did not have any major palsy but did exhibit some fine motor skill impairment which improved after the transmission to the psychiatric department. He was eventually able to button his shirt, and eat on his own.
+
+There were very brisk deep tendon jerks on the right side and normal reflexes on the left side; however, there was no Babinski sign on either side. A mild spinal ataxia could be observed in his walking pattern but he was able to walk and turn around without any support. He had no sensory deficit and he had self-controlled urination and defecation. The posterior neck wound healed. The follow-up X-rays showed stable fixation without screw loosening.
+
+## Discussion
+
+There is no other crossbow injury case presentation in available medical literature where an arrow entered through the mouth, causing a C2 vertebra split, Type II dens fracture, and then going through the spine, finally lodging in the neck with the broadhead coming out under the occiput which caused minimal neurologic deficit.
+
+In today's modern warfare bows (including crossbows) are not used, meaning the chances of treating such injuries are low; however, hunting and sport archery is becoming popular, which gives the importance of special considerations regarding the treatment choice of this uncommon type injury caused by an arrow.
+
+In this case, the broadhead traveled through the spinal canal and stayed clear of the spinal cord, which is simply pure luck; however, the mild ataxia and fine motor skill disturbances caused by the injury suggests that the arrow grazed the spinal cord. Obviously, the outcome of a spine-penetrating arrow injury depends on the trajectory of the missile, the force of the impact and the shape of the broadhead; however, appropriate injury management are necessary.
+
+If a case presents itself where the arrow or a portion of it penetrates the neck of the patient, the arrow must not be removed, and the neck must be stabilized on site and maintained till the end of diagnostic evaluation [1, 4]. If the breathing is compromised the airway must be secured [1].
+
+In a case when major blood vessel injury involving any type of spinal injury is possible, it is highly recommended that a CT angiogram be performed. In this situation the vertebral arteries had not been evaluated prior to surgery, as the first neurosurgeon to whom this case was presented was not a spine specialist and had limited experience with spinal injuries. By the time the spine specialist was informed about the case the patient was already in the operating room [1].
+
+The closure of torn dura in the spinal canal can be challenging, but it is advised to close it as meticulously as possible to avoid CSF leakage [3]. Prophylactic CSF diversion via a lumbar drain should be considered.
+
+It would not be considered surprising if a foreign and non-sterile object which has penetrated the body causes infection. In this case the initial antibiotic was Amoxicillin and Clavulanic Acid combination as a perioperative prophylactic drug. Although the blood culture and CSF culture showed bacteria (E. coli) generally should have been susceptible to Amoxicillin and Clavulanic Acid, it was not in this case. Every effort should be taken to prevent infection, including the thorough cleansing of the wound and the administering of prophylactic intravenous antibiotics which adequately cover the appropriate infection spectrum [3].
+
+Depending on the amount of damage the spine has sustained by a penetrating missile, surgical stabilization may be necessary. In this case, because of the Type II dens fracture, the sagittal split of the C2 body and loosened left C2 pedicle a C1–3 posterior fixation was performed.
+
+## Conclusions
+
+The removal of a spine-penetrating foreign body lodged in the spine, which does not cause a major neurological deficit, can be a real challenge and requires immense preparation and evaluation of surgical and treatment options. Treatment does not cease with the successful removal of the foreign object. Even if this object does not cause further neurological deterioration there may be further complications which must be resolved and which will probably require special solutions.

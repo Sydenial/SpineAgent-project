@@ -1,0 +1,11 @@
+# Improvised Interbody Fusion Cage in an Austere Medical Environment
+
+## Case Report
+
+The patient is an 18-year-old Afghan woman who sustained an L2–L3 fracture-dislocation after a motor vehicle accident in her home province. She was initially evaluated within the Afghan medical system, where local surgeons opted for nonoperative management with a 6-month trial of bracing. Despite this, she reported progressive neurologic symptoms. After coordination with in-theater humanitarian medical services, she was transported 1,010 km to the nearest Joint Theater Hospital for further evaluation.
+
+On presentation, she displayed bilateral lower-extremity proximal muscle weakness, right lower-extremity paresthesias, decreased right patellar and ankle deep tendon reflexes, and significant difficulty with ambulation. Computed tomography demonstrated a fracture subluxation of L2 on L3 with notable anterolateral listhesis of L2 on L3 and approximately 45° of left rotatory subluxation of L2 relative to L3.
+
+In the setting of the patient’s progressive neurologic decline, she was scheduled for an L2 corpectomy with anterior interposition cage graft and posterolateral instrumented fusion. Standard corpectomy cages were not obtainable in the Afghanistan theater; therefore, the patient was sized for a cylindrical titanium mesh cage. The cage was fabricated using titanium cranial mesh (Synthes CMF, Inc., West Chester, USA). A 20-mm cylindrical corpectomy cage was fashioned from a strip of the cranial mesh. The improvised cage was fixed with titanium wire ligature and packed with locally harvested autologous bone graft before implantation. The anterior cage was augmented with lateral instrumentation.
+
+Postoperative computed tomography imaging demonstrated the titanium cage with near-anatomic reduction of the L1 and L3 vertebral bodies. The patient was ambulating with minimal assistance on postoperative day 2. On examination, she exhibited near resolution of her presenting lower-extremity neurologic deficits. At the 3-month follow-up, she reported improvement in back pain, full resolution of motor function, and minimal residual right lower-extremity paresthesias.

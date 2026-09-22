@@ -1,0 +1,71 @@
+# Multiple cervical hemivertebra resection and staged thoracic pedicle subtraction osteotomy in the treatment of complicated congenital scoliosis
+
+## Abstract
+
+Purpose To present our experience of staged correction with multiple cervical hemivertebra resection and thoracic pedicle subtraction osteotomy (PSO) treating a rare and complicated congenital scoliosis.
+
+Methods A 14-year-old male presented with progressive torticollis and spine deformity. The malformation developed since birth, and back pain after long-time sitting or exercise arose since 6 months before, which was unsuccessfully treated by physiotherapy. X-ray showed a right cervical curve of 60° and a left compensatory thoracic curve of 90°. Three-dimensional computed tomography (3D CT) scan revealed three semi-segmented hemivertebrae (C4, C5 and C6) on the right side. Based on our staged strategy, the three consecutive cervical hemivertebrae, as the major pathology causing the deformity, were firstly resected by the combined posterior and anterior approach. Six months later, T6 PSO osteotomy was used to correct the structural compensatory thoracic curve.
+
+Results The cervical curve was reduced to 23° while the thoracic curve to 60° after the first-stage surgery, and the thoracic curve was further reduced to 30° after the second-stage surgery. The radiograph at 5-year follow-up showed that both the coronal and sagittal balance were well restored and stabilized, with the occipital tilt reduced from 12° to 0°.
+
+Conclusions Our strategy may provide an option for similar cases with multiple consecutive cervical hemivertebrae and a large structural compensatory thoracic curve, which proved to achieve excellent correction in both the coronal and sagittal planes with acceptable neurologic risk.
+
+Keywords Congenital cervical scoliosis · Multiple cervical hemivertebrae · Hemivertebra resection · Pedicle subtraction osteotomy · Two-stage correction
+
+## Introduction
+
+Congenital cervical scoliosis due to hemivertebra poses a challenging and perplexing problem [1, 2]. The lack of a mobile spine above the hemivertebra results in increasing tilt of the head [3] and a long compensatory curve below [4], which may progress with time [5]. Hemivertebra resection seems tempting, but is quite technically demanding due to the complicated anatomical structures in the cervical area [2, 6, 7]. Previous reports [8] did not include the treatment of severe cervical scoliosis (larger than 60°), more than two consecutive cervical hemivertebrae, or a large structural compensatory thoracic curve.
+
+Therefore, we presented our experience of staged multiple cervical hemivertebrae resection and thoracic pedicle subtraction osteotomy (PSO) in treating a rare and complicated congenital scoliosis.
+
+## Case description
+
+A 14-year-old male presented with progressive torticollis and spine deformity. The malformations developed since birth, and back pain after long-time sitting or exercise arose 6 months before, which was unsuccessfully treated by physiotherapy. Neurologic examination revealed hyperactive biceps, triceps, quadriceps and achilles reflexes, and inverted brachioradialis reflex, while Hoffman' sign, Babinski's sign, clonus or spastic gait were absent and no obvious muscle weakness, hypoesthesia, hypermyotonia or dexterity problems were found (Nurick Grade 1, Ranawat Class II, JOA score 17). X-ray showed a right cervical curve of 60° and a left compensatory thoracic rigid curve of 90°.
+
+3-D CT scan revealed multiple abnormalities: three semi-segmented hemivertebrae (C4, C5, C6) on the right side and a synostosed bony mass (C3–C7). CT angiography (CTA) revealed that the right vertebral artery did not go through the transverse process of the three hemivertebrae. Magnetic resonance imaging (MRI) of the whole spine excluded intraspinal anomalies and spinal myelomalacia.
+
+## Surgical procedure
+
+At the first surgery, resection of the three hemivertebrae (C4–C6) was performed through a combined posterior and anterior approach. The patient was put in left lateral decubitus position on a carbon radiolucent table and draped after intubation. First, through a midline posterior approach, a total sub-periosteal exposure of the posterior elements was performed from C3 to C7. Once the anatomical landmarks were properly defined, two lamina hooks were placed on the right side of C3 and C7, respectively, due to difficulty in placing pedicle screws. Then a wedge-shaped portion of the posterior elements of C4–C6 was resected. After the facet joints and pedicles of the three hemivertebrae (C4–C6) were removed around the dural sac, the nerve roots above and below the hemivertebrae were carefully exposed and protected. Since the preoperative evaluation had revealed that the right vertebral artery was not inside the transverse process foramina of the three hemivertebrae, the right vertebral artery was not intentionally dissected. A precontoured temporary rod was then placed, and the incision was closed temporarily.
+
+After tilting the bed, a standard anterior transverse cervical incision was made. The complete body of the three hemivertebrae and the adjacent discs were resected with a high-speed drill, and the endplates of the adjacent vertebrae were completely decorticated to prepare the fusion bed. After complete resection of the three hemivertebrae, the posterior incision was opened and the temporary rod was removed, and the gap between C3 and C7 was slowly closed by anterior compression device and head elevation with close MEP (motor evoked potentials) and somatosensory evoked potentials (SSEP) monitoring. Zephir plate was placed anteriorly to fix the reduction, and the posterior compression was performed at the same time to further correct the scoliosis and kyphosis. Auto chip bone was put inside the residual gap for fusion. The neuromonitoring did not reveal any changes during correction. Decortication of the posterior elements and fusion was then performed.
+
+Six months later, the second-stage posterior correction with T6 pedicle subtraction osteotomy was performed using similar surgical procedures as described in previous literature [9–11]. Instrumentation was finally connected and extended from C3 to L3.
+
+## Postoperative information
+
+After the first-stage surgery, the cervical curve was reduced to 23°, while the thoracic curve to 60°. Then the thoracic curve was further reduced to 30° after the second-stage surgery. The radiograph at 5-year follow-up showed that both the coronal and sagittal balance were well restored and stabilized, with the occipital tilt being reduced from 12° preoperatively to 0°. The patient had been pain-free without any neurologic deficit until the 5-year follow-up. The neurologic examination at the last follow-up showed that biceps, triceps, quadriceps and achilles reflexes got back to normal, and the inverted brachioradialis reflex was absent (Nurick Grade 0, Ranawat Class I, JOA score 17).
+
+## Discussion and conclusion
+
+We describe a rare case with severe cervical scoliosis comprising three consecutive cervical hemivertebrae and a significant structural compensatory thoracic curve. Patient evaluation, surgical plan making and surgical techniques are the three crucial elements of our treatment.
+
+### Patient evaluation
+
+Both physical examination and radiological tests are essential prior to surgery. Firstly, this patient presented hyperreflexia, with no muscle weakness, hypoesthesia, hypermyotonia or pathological reflexes, which indicated an early myelopathy. In such case, several subtle signs of early myelopathy, i.e., the Japanese 10-s hip flexion test might be helpful in the evaluation of the exact neurology status [12–14]. Secondly, clinical classification can be useful to assess the functional disability in patients, such as Nurick [15], Ranawat classification and Japanese Orthopedic Association (JOA) score [16]. Since it has been reported that these classifications assess separate domains of functionality and may display disagreement in certain type of patients [17–19], we therefore suggest incorporating Nurick scale, Ranawat and JOA score in the evaluation of patients with myelopathy prior to surgery and during the follow-up [20]. Thirdly, the physical signs can also indicate the involved spinal cord levels, such as scapulohumeral reflex (C3–4), Hoffman's sign (C4–5), inverted brachioradialis reflex (C5–6), finger escape sign (C6–7) [21]. Since this patient presented inverted brachioradialis reflex while no Hoffman's sign, we speculated C5–6 as the upper compressed level, which is consistent with the level of the multiple hemivertebrae anomalies and thus necessitated the surgical intervention.
+
+Fourthly, whole spine erect X-ray and 3-D CT reconstruction are required to evaluate anatomical details of multiple hemivertebrae and accompanied spinal anomalies, while whole spine MRI is necessary to exclude intraspinal anomalies, such as diastematomyelia, syringomyelia, Chiari's malformation [22]. In addition, MRI could reveal spinal myelomalacia, which is a strong indicator for surgical decompression [23–25]. Fifthly, it should be emphasized that CTA is crucial in evaluating potential vertebral artery variations and thereby making appropriate surgical plans. Lastly, echocardiography and urinary tract ultrasonography are also of necessity to assess potential congenital heart and urinary system abnormalities.
+
+### Key surgical questions and rationale
+
+(1) Is surgical treatment indicated in this case? This patient presented with progressive torticollis and refractory back pain along with early myelopathy which were unresponsive to conservative treatment. Furthermore, the Cobb angles of the cervical (60°) and thoracic (90°) curves posed great risks for deformity progression. All these conditions rendered surgical treatment indicated.
+
+(2) Is pre-op halo traction necessary? Although pre-op halo-gravity traction has been reported [26, 27] to achieve increased curve flexibility and soft tissue elasticity, it exerts little effect on unsegmented congenital scoliosis. In this case, the presence of multiple semi-segmented hemivertebrae and the absence of skin contracture made us believe that pre-op halo traction is of no necessity.
+
+(3) One-stage or two-stage strategy? Two-stage strategy was planned to treat the two rigid curves with osteotomy in each stage, through which we obtained improved patient tolerance, decreased surgical complexity and 6 months to achieve solid fusion of the cervical spine to avoid complications.
+
+(4) What were the goals for the correction, and how to achieve them? In the first surgery, our goal was to resect the three hemivertebrae and to correct the cervical curve as much as possible through anterior compression, posterior compression and head elevation under close neuromonitoring. In the second surgery, since the cervical curve was corrected to 23° and the thoracic curve automatically compensated to 60°, we planned to correct the thoracic scoliosis from 60° to 30°, which was similar to the residual cervical curve, to keep the trunk balanced. Based on previous reports that asymmetrical PSO at a single level can gain about 30° correction on both coronal and sagittal planes [28, 29], we planned to perform asymmetrical PSO at one level in the second surgery.
+
+(5) How to deal with the cervical and thoracic kyphosis? We planned to correct the cervical kyphosis through multiple hemivertebra resection and posterior compression, while correcting the thoracic hyperkyphosis through PSO at T6 level, which was at the apex of both thoracic scoliosis and kyphosis.
+
+(6) How to determine the lowest instrumented vertebra (LIV) in the second surgery? We chose L3 as the LIV, which was the most proximal vertebra touched by central sacral vertical line (CSVL) on the posterior-anterior X-ray prior to the second surgery [30, 31].
+
+(7) How to deal with the vertebral artery during the first surgery? Since the preoperative CTA revealed that the right vertebral artery did not go through the transverse foramina of the three hemivertebrae, it was not necessary to dissect the right vertebral artery in this case.
+
+### Intraoperative technical considerations
+
+Several issues should be emphasized. Firstly, the upper and lower discs of the multiple hemivertebrae, including the cartilage endplate, must be completely removed until bleeding bone is reached. Secondly, the spinal cord, the nerve roots and the vertebral arteries should be monitored carefully during the correction maneuver, with close MEP and SSEP neuromonitoring. Thirdly, a temporary rod must be used between the back and front parts in the first surgery to stabilize the cervical spine and thus avoid loss of correction. Lastly, if the vertebral artery was in its usual position, a complete release of the vertebral artery must be conducted as Ruf described [8]. Briefly, after the removal of the facet via posterior approach, the nerve roots are carefully retracted with dissectors, and the foramen of the vertebral artery is identified. Thereafter, the posterior wall of the transverse foramen is carefully removed with a Kerrison rongeur. Then, via anterior approach, the anterior part of the transverse process is dissected free, and the anterior wall of the transverse foramen is then removed, thereby exposing the vertebral artery.
+
+Ruf et al. [8] reported three cases of congenital deformity with cervical hemivertebrae, which was the only report in the literature to our knowledge. Among these three cases, the most complicated one resembled our case with a left convex C7–T2 of 58° and a right convex curve T3–T10 of 79°. After 3-staged surgery, the cervicothoracic curve was reduced to 29°, and the thoracic curve to 28° at 13-month follow-up (from 14 to 15 years old). Compared with Ruf's result, we achieved comparable correction rate with less staged surgery (2-stage) and significantly longer follow-up time (5 years, from 14 to 19 years old) till the end of growth.
+
+In summary, our strategy may provide an option for similar cases with multiple consecutive cervical hemivertebrae and a large structural compensatory thoracic curve, which proved to achieve excellent correction in both the coronal and sagittal planes with acceptable neurologic risk.

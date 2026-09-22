@@ -1,0 +1,5 @@
+# IMAGES OF SpiNE CARE
+
+## A rare cause of episodic paresthesia: spinal cavernoma
+
+A 57-year-old male patient was admitted to our neurosurgery department with episodic numbness in both lower extremities during the past 6 months. Neurological examination and cranial magnetic resonance imaging were normal. Spinal magnetic resonance imaging was performed. Magnetic resonance images showed intramedullary cavernous angiomas (CA) at cervical spinal cord. Cavernous angiomas are vascular malformations that occur throughout the central nervous system. Cavernous angiomas most commonly occur in the cerebral hemispheres, but spinal CA are rare. Spinal CA can be intramedullary, intradural extramedullary, or extradural lesions. Intradural spinal CA are uncommon. Spinal CA occur mostly in the thoracic spine. The common symptoms of spinal CA include paraesthesia, pain, and weakness. The mechanism of episodic deterioration in these patients is most likely episodic hemorrhage into the spinal cord parenchyma. A complete surgical resection is the goal of the treatment for spinal CA.

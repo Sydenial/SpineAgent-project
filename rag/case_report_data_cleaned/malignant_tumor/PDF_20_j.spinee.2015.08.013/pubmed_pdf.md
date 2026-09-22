@@ -1,0 +1,5 @@
+# IMAGES OF SPINE CaRE
+
+## Multiple metastases to vertebrae after surgical management, chemotherapy, and bone marrow transplantation for granulocytic sarcoma of the spine
+
+A 50-year-old man presented to us with back pain of 50 days' duration but without neurological symptoms in both lower extremities. Magnetic resonance imaging (MRI) showed a mass lesion extending from the left paravertebral soft tissue to the spinal canal (T9, T10) (Fig. 1). He underwent tumorectomy and pedicle screw internal fixation from T8 to T11. A histopathologic diagnosis of granulocytic sarcoma was made. After chemotherapy and bone marrow transplantation, his symptoms resolved, and the MRI showed no abnormality in other vertebrae (Fig. 2). However, the patient again complained of back pain 2 months later. The MRI was recommended, which revealed multiple metastases to vertebrae (Fig. 3). Granulocytic sarcoma, also called myeloid sarcoma, is an extramedullary tumor of immature granulocytic cells. It rarely presents in the absence of acute leukemia, and multiple metastases to vertebrae are also uncommon. To prevent misdiagnosis, immunohistochemistry is obligatory [1,2].

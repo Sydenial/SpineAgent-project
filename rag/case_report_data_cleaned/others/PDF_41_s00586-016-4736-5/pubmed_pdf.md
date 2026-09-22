@@ -1,0 +1,37 @@
+# Solitary bone cyst of a lumbar vertebra treated with percutaneous steroid injection: a case report and review of literature
+
+## Abstract
+
+**Purpose:** We describe a rare case of solitary bone cyst involving the vertebral body of L4.  
+**Introduction:** To the best of the authors' knowledge, only 15 cases of solitary bone cysts involving the spine have been reported previously. All the reported cases were treated surgically, including resection and curettage with or without bone grafting. In the current case, treatment was with steroid injection alone.  
+**Method:** A cystic lesion involving the vertebral body of L4 was identified in a 16-year-old girl with persistent low back pain of 2 years' duration. According to the radiological characteristics of the lesion, a diagnosis of solitary bone cyst was suspected. The patient underwent surgical intervention with percutaneous steroid injection alone since there was no evidence of thinned cortex or pathological fracture. The patient was discharged 2 days after this intervention with resolution of the low back pain.  
+**Result:** At the final follow-up 7 months after treatment, the patient was asymptomatic and the beginning of bony healing was evident.  
+**Conclusion:** Herein, we reported an extremely rare case of solitary bone cyst involving the body of the fourth lumbar vertebra. Local steroid injection should be considered as a minimally invasive intervention for a solitary bone cyst involving the spinal column with no evidence of thinned cortex or pathological fracture.
+
+**Keywords:** Solitary bone cyst · Vertebral body · Lumbar spine · Intralesional steroid injection  
+
+## Introduction
+
+Solitary bone cyst (also known as simple bone cyst or unicameral bone cyst) has been defined as a benign fluid-filled lesion of primary intraosseous origin. It was first described by Virchow in 1876, and was well established among physicians by 1902. Most of them arise in long tubular bones of young people, mainly reported in the proximal humerus and femur. Involvement of other sites, especially in the spinal column, is extremely rare.
+
+Since Dawson et al. reported the first case of solitary bone cyst in the fourth cervical vertebra in 1976, only 15 cases of solitary bone cysts occurring in the spinal column have been reported in the literature published in English. All the previously reported cases involving the spinal column were surgically treated. However, many minimally invasive strategies for solitary bone cysts have been reported, such as cortical decompression, percutaneous injection including steroids, autologous bone marrow, demineralized bone matrix, and calcium sulfate pellets. In the present report, we present the first case of a patient with solitary bone cyst involving the vertebral body of L4 treated with percutaneous steroid injection alone.
+
+## Case Report
+
+A 16-year-old girl who suffered from persistent low back pain of 2 years' duration visited a local clinic. Magnetic resonance imaging (MRI) was performed, and then she was referred to our institute for the suspicion of a bone tumor in the fourth lumbar vertebra. She had no history of trauma or other medical conditions. Physical examination showed severe pain over the lower back area. Neurologic examination was unremarkable, and all her laboratory data were within normal range.
+
+Plain radiography of the lumbar spine revealed a radiolucent lesion surrounded by bone sclerosis in the body of the fourth vertebra. Computed tomography (CT) scan showed a well-demarcated osteolytic lesion in the body of L4, with no evidence of thinned cortex or pathological fracture. On MRI, the lesion exhibited low intensity in T1-weighted images and high intensity in T2-weighted images with no evidence of enhancement after gadolinium administration. Whole body bone scan was negative. A solitary bone cyst was diagnosed based on these preoperative morphologic features.
+
+The surgical intervention was performed with the patient in the prone position. General anesthesia was used due to severe low back pain. Two 14-gauge needles were inserted into the lesion through both sides of the pedicle under C-arm control. Aspiration from the lesion revealed a straw-colored fluid. After irrigation of the lesion with saline, the needle inserted from the right pedicle was removed. Thereafter, 4 mg of cortisone were injected through the other needle. Histologic examination of the fluid demonstrated benign-looking cells only. Intraoperative findings and histologic examination supported our preoperative diagnosis. Postoperative course was uneventful. The patient was discharged 2 days after the intervention without low back pain. CT scan performed 7 months postoperatively showed beginning of bony healing.
+
+## Discussion
+
+Among the 15 previously reported cases of solitary bone cysts occurring in the spinal column, seven were in the cervical spine, one was in the thoracic spine, and seven were in the lumbar spine. The location of these lesions varied between the cases: five occurred in the anterior column, two in the middle column, five in the posterior column, and three cases occurred in the two serial columns. All reported cases were surgically treated. Most of the cysts located in the spinous process or lamina were resected or curetted, and most of the cysts located in the body were curetted and subsequently subjected to a bone graft. In the more recently treated cases, artificial bone, including hydroxyapatite block or calcium phosphate bone paste, was used instead of autologous bone. Local recurrence was not reported in any of these cases.
+
+The present case is the first reported case of solitary bone cyst occurring in the spinal column that was treated with percutaneous steroid injection alone. Steroid injection is the traditional treatment for solitary bone cysts. Although variable success rates have been reported, and several injections are usually needed for complete healing, local steroid injection for solitary bone cyst was and remains a recommended treatment option due to its usefulness. However, it is not recommended if the lesion is in a weight-bearing bone, such as the femur, because steroid itself does not provide stability to weakened bone or bone with pathological fracture. Regarding the present case, the preoperative images revealed no evidence of thinned cortex or pathological fracture. Moreover, the lesion in the vertebral body was relatively small. We assumed that although the lumbar spine is one of the weight-bearing areas, mechanical support was not needed in our case. Therefore, we decided to use percutaneous steroid injection alone as a minimally invasive intervention.
+
+The exact pathogenesis of simple bone cyst remains unknown. Various theories include venous obstruction, encapsulation of a metaphyseal hemorrhage, and local microtrauma. Mirra et al., proposed that it may be caused by the fetal to infantile rest of the synovial tissue. In the present case, there was no history of trauma or infection. The synovial rest theory could explain the pathogenesis in such a case without a history of vertebral damage. Mediators in the cyst fluid, such as prostaglandin and interleukin-1 (IL-1), would act as inflammatory mediators. The favorable effects of intralesional injection of steroid for low back pain in the present case support this hypothesis.
+
+## Compliance with Ethical Standards
+
+**Conflict of interest:** None of the authors has any potential conflict of interest.

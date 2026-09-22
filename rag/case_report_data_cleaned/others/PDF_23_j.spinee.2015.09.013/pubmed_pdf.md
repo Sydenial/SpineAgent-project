@@ -1,0 +1,7 @@
+# Intradural Calcifying Pseudoneoplasm
+
+## Case Report
+
+A 90-year-old woman presented for evaluation of worsening lower extremity weakness of 2–3 months' duration and inability to walk independently for 1–2 weeks. She had decreased sensation, coordination, and balance in the trunk and lower extremities. Magnetic resonance imaging revealed a well-circumscribed intradural lesion compressing the spinal cord at the C7–T1 levels. The patient was taken to the operating room, and during surgery an intradural, extramedullary mass was found adherent to the dura and compressing the spinal cord. An intralesional resection was performed to decompress the spinal cord while preserving the dural envelope.
+
+The patient recovered exceptionally well, regaining her ability to walk independently by 8 weeks postoperatively. Pathologic specimens identified the mass as a calcifying pseudoneoplasm, an uncommon benign non-neoplastic lesion rarely encountered in the neural axis [1–4]. Bertoni et al. described 14 cases of extradural calcifying pseudoneoplasms in patients presenting with back pain, myelopathic symptoms, epileptic attacks, and cranial nerve involvement [2]. In general, patients do well with intralesional excision and debulking of the lesion.

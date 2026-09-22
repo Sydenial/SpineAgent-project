@@ -1,0 +1,7 @@
+# Exertional Ventral Epidural Hematoma in the Lumbar Spine
+
+## Case Report
+
+A 34-year-old man presented with severe back pain, urinary incontinence, and distal bilateral lower extremity paresthesia after weight lifting in excess of 400 lbs. Magnetic resonance imaging demonstrated an oval, ventral epidural complex “cystic” mass extending from the inferior L3 end plate to mid L4, measuring $1.7\times1.0\times2.7$ cm, with a diffuse bulge of the L3–L4 disc. The central portion demonstrated intermediate to high T1 signal intensity, and the peripheral portions showed intrinsic T1 hyperintensity with a corresponding gradient echo susceptibility, suggesting epidural hemorrhage. There was also enhancement of the adjacent epidural venous plexus. The patient underwent a minimally invasive surgical decompression and exploration. Intraoperative epidural hemorrhage was encountered and evacuated. Postoperatively, he reported resolution of his urinary incontinence, back pain, and lower extremity radiculopathy.
+
+The proposed etiology of this spontaneous lumbar epidural hematoma is significant exertion from weight lifting that resulted in stretching and injury to the epidural venous plexus. To the authors’ best knowledge, there is only one report of exertional spinal epidural hematoma [1]. Only two cases have been reported for spontaneous ventral spinal epidural hematomas in adults, with one being in the cervical region [2] and the other in the thoracic region [3].

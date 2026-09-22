@@ -1,0 +1,52 @@
+# Introduction
+
+This section of the guideline deals with the diagnosis of low back pain (LBP) as defined specifically for this project. As the questions were developed, there were two main focuses. The authors were interested in determining if there were specific patient characteristics that would be useful in identifying structural abnormalities of the spine. The rationale behind this strategy was that structural abnormalities would have specific treatments and the ability to identify such patients early in the process may allow for expedited specific treatment for subgroups of patients. 
+
+The second emphasis related to the identification of patient characteristics that could predict the time course of an episode of back pain. Again, the rationale was to attempt to identify patients at high risk for conversion from an acute episode to a more chronic condition in order to rationally allocate aggressive treatment strategies. 
+
+Because back pain is so prevalent, there is an abundance of literature from multiple sources, and the panel reviewed thousands of references. Eventually, the references were pruned down to slightly more than 600 selected manuscripts. As the literature was reviewed, several issues arose that require comment.
+
+First of all, it is recognized that many assessments of LBP are not necessarily focused on structural abnormalities but may be focused on functional or dynamic characteristics of the pain syndrome. These assessments were not adequately addressed in this section because of the a priori link between assessment and structural abnormality in our question set.
+
+Second, defining the gold standard for a "structural abnormality" as a cause of LBP was extremely problematic. References reporting correlations between different assessment methods, assessment methods and injections, assessment methods and surgery, and assessment methods and specific noninvasive therapies were identified. When such studies were well done, the results were reported as providing high-quality evidence regarding the correlation between the assessment method and the test or treatment employed as a comparator. For example, a study of patients with tenderness over the sacroiliac joint may correlate well with a positive response to a sacroiliac joint injection. However, with regard to the primary question, the panel could not agree that a "gold standard" exists for the diagnosis of LBP due to the wide range of treatment efficacy when patients are selected for therapies based on a purported "gold standard." 
+
+There was uncertainty as to whether the "gold standard" was therefore inaccurate or if the treatment methods based on that standard were simply variably effective. Therefore, with regard to the diagnosis of LBP, the evidence derived from these studies was downgraded.
+
+Third, the majority of the literature dealing with the assessment of patients with LBP includes patients with radicular complaints. Studies were considered for inclusion only if patients with leg pain were excluded or if a subgroup analysis was provided allowing for assessment of only patients without radicular pain/radiculopathy. If, however, patients with radicular complaints were included in a study and a subgroup analysis was not provided, the study did not meet the population targeted by this guideline effort and was discarded. Unfortunately, many well-known and highly-cited papers fall into this latter category.
+
+Fourth, many of the best-designed and best-performed prognosis papers looking at recovery from an acute episode of LBP used return to work (RTW) as their primary outcome measure without an assessment of LBP during the follow-up period. The author panel felt that the use of RTW represented a potentially false endpoint as it relates to the resolution or persistence of LBP. It is recognized that patients may return to work despite persistent pain and that patients whose pain has resolved may choose not to return to work. For this reason, references that used RTW as the outcome measure without a concomitant assessment of relevant patient-reported outcomes were downgraded with respect to the level of evidence.
+
+Finally, some observations consistently reported by numerous authors were not specifically addressed by the initial question set. The author group felt it appropriate to include statements reflecting such observations where applicable.
+
+## Diagnosis Question 1
+
+In patients with low back pain, are there specific history or physical examination findings that would indicate the structure causing pain and, therefore, guide treatment?
+
+### a. Vertebral Body  
+### b. Intervertebral Disc  
+### c. Zygapophyseal Joint  
+### d. Posterior Elements  
+### e. Sacroiliac Joint  
+### f. Muscle/Tendon  
+### g. Central Sensitization  
+
+There is insufficient evidence to make a recommendation for or against the use of innominate kinematics for the assessment of sacroiliac joint pain.
+
+**Grade of Recommendation:** I
+
+Adhia et al conducted a single-blinded cross-sectional case-control study to compare the innominate kinematic measures (movement pattern, range of motion and trends of rotation) of participants with LBP of sacroiliac joint (SIJ) origin versus participants with LBP of non-SIJ origin. Participants with LBP ≥3 months (n=122) underwent a clinical examination with valid and reliable noninvasive SIJ symptom provocation tests to be classified as SIJ-positive (≥3 familiar symptom reproduction pain provocation tests) or SIJ-negative. The clinical evaluation was followed by innominate kinematic testing by a blinded tester using an electromagnetic palpation digitization technique. Disability (Modified Oswestry Low Back Pain Disability Questionnaire), level of physical activity, duration of pain and current intensity of pain per the visual analog scale (VAS) were recorded. Innominate range of motion, movement patterns, and trend of rotation were recorded and compared between SIJ-positive and SIJ-negative participants. Results demonstrated that SIJ-positive participants had significantly different innominate movement patterns and trends of rotation, but not innominate ranges of motion. The authors concluded that there was an association between SI joint pain and altered innominate kinematics. This study provides Level III evidence that altered innominate kinematics is associated with 3 out of 5 positive sacroiliac provocation tests and may be considered for the diagnosis of SI joint pain.
+
+### Predicting Response to a Diagnostic Injection  
+**Grade of Recommendation:** I
+
+In a retrospective chart review, Depalma et al aimed to estimate the sensitivity, specificity, positive and negative predictive values, diagnostic accuracy and likelihood ratios of positive and negative tests for diagnosing internal disc disruption (IDD), facet joint pain (FJP) or sacroiliac joint pain (SIJP) by use of presence of midline and paramidline LBP. During the clinical evaluation, patients pointed to the most painful LBP with one finger, which was documented as midline (by the spinous processes) or paramidline (more than one fingerbreadth lateral to the midline). Charts of patients with a definitive diagnosis for source of LBP were reviewed and classified as IDD, FJP, or SIJP. In cases of IDD, significantly greater percentages of patients reported midline LBP compared to FJP or SIJP and significantly lower percentages of patients reported paramidline pain compared to FJP or SIJP. The diagnostic accuracy of midline LBP was 83.5% for IDD, 24.1% for FJP, and 31.8% for SIJP. The authors concluded that the spine specialist can predict the likely source of the patient's LBP by evaluating the location of LBP as the presence of midline LBP increases the probability of lumbar IDD and reduces the probability of symptomatic FJ and SI dysfunction. This study provides Level I evidence that location of pain can predict response to the injection and Level III evidence that the presence of midline LBP increases the probability of lumbar IDD and reduces the probability of symptomatic FJ and SIJ dysfunction.
+
+There is insufficient evidence to make a recommendation for or against the assessment of centralization or peripheralization for the prediction of discography results.
+
+**Grade of Recommendation:** I
+
+Donelson et al investigated the relationship between responses of centralization and peripheralization with discographic findings in a prospective blinded study of patients with chronic LBP greater than 3 months. Patients who were scheduled for discography were enrolled in the study (n=63). Participants underwent an initial McKenzie mechanical assessment by a therapist blinded to medical records and were classified as centralizers, peripheralizers, or no change. During discography that immediately followed the assessment, pain response was assessed to disc injection and axial CT was performed on all painful discs. Exact pain reproduction and an abnormal image were criteria for a positive discogram. Of the 31 centralizers, 23 (74%) had a positive discogram; 21 (91%) of those had a competent annular wall of the positive disc. Of the 16 peripheralizers, 11 (69%) had a positive discogram; 6 (54%) of those had a competent annular wall. Of the 16 with no change upon initial assessment, only 2 (12.5%) had a positive discogram, both with competent annular walls. The authors concluded that the McKenzie assessment process reliably differentiated discogenic versus nondiscogenic pain as well as competent versus incompetent annulus in symptomatic discs. This study provides Level III evidence that patients who centralize or peripheralize pain with McKenzie exercises have a higher incidence of positive discogram than those with no change. Those who centralize have a higher incidence of an intact annulus as compared to those whose pain peripheralized.
+
+## Future Directions for Research
+
+It is recognized that the vast majority of LBP does not have an identifiable structural cause. The term "nonspecific low back pain" provides no biologic basis for LBP nor assistance in clinical decision-making. Therefore, future research should focus on reliably identifying clusters of history and physical examination findings which can classify patients into subgroups to be validated by identifying predictably effective treatments. Further studies of nonspecific LBP are unwarranted.

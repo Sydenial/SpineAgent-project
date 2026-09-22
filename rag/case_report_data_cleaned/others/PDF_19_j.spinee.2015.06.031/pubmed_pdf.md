@@ -1,0 +1,10 @@
+# Immature Ganglioneuroma of the Thoracic Spine with Lipomatous Component: A Rare Cause of Scoliosis
+
+## Case Report
+A 33-year-old male presented to the neurosurgery clinic with scoliosis. Magnetic resonance imaging of the thoracic spine revealed scoliosis and a right paravertebral soft-tissue mass at the T6-11 level (Fig. 1) that involved the spinal canal and expanded the right neural foramina. The mass showed heterogeneous low-signal intensity on unenhanced T1-weighted images with a high-signal-intensity lipomatous component (Fig. 2) and intense enhancement on contrast-enhanced T1-weighted images (Fig. 3). Plain computed tomography demonstrated scattered fatty areas, calcifications, and vertebral scalloping (Fig. 4). The mass was totally resected by neurosurgery.
+
+### Histopathology
+Histologically, the tumor revealed mature ganglion cells, their processes, ensheathing Schwann cells, and mature adipose tissue within the tumor. Rare immature ganglion cells were identified after thorough examination with additional sections. Immunohistochemical analysis demonstrated positivity of S-100 protein in Schwann cells and positivity for synaptophysin and neurofilament protein in ganglion cells. Immature ganglion cells were positive for synaptophysin but negative for neurofilament protein. The final diagnosis was immature ganglioneuroma with lipomatous component (Fig. 5).
+
+## Discussion
+Ganglioneuroma is a benign neoplasm that comprises mature ganglion cells and an abundance of unmyelinated and occasional myelinated axons with accompanying Schwannian stroma. However, immature ganglioneuroma consists of both mature ganglion cells and a smaller form of ganglion cells or rare neuroblasts [1]. Ganglioneuroma with a lipomatous component has been reported as a distinct entity in the literature and shows mature adipose tissue within a ganglioneuroma [2-4].

@@ -1,0 +1,9 @@
+# Unusual Presentation of an Adult Filum Terminale Teratoma Associated With Diplom yelia
+
+## Case Report
+
+A 62-year-old man presented to the neurosurgery clinic with weakness of the lower extremities. There was no history of surgery or trauma. The power grade in the lower extremities was 3 or 4. There were no definite sensory deficits. Magnetic resonance imaging revealed a heterogeneous solid mass with cystic and fatty components at the filum terminale, expanding the spinal canal. A thin linear filum lipoma was also seen beyond the mass. The fatty components of the mass and the linear filum lipoma showed hyperintensity on both T1- and T2-weighted images, with suppression on fat-saturated images. The solid components showed enhancement after intravenous contrast administration. Above this lesion, diplomyelia was detected, separating the spinal cord into equal hemicords with no interposed mesenchymal tissue. The spinal cord was low lying at the L3 level, and the filum was attached to the posterior wall of the spinal canal. These radiologic findings suggested a teratoma. The patient was referred to the neurosurgery clinic for surgical treatment. Histopathologic specimens confirmed a mature cystic teratoma.
+
+## Discussion
+
+Spinal teratomas of the filum terminale are rarely encountered in adults [1,2]. The association of a teratoma with a spinal canal malformation such as diplomyelia supports the hypothesis of a dysembryogenic origin of spinal teratomas. Teratomas should be considered in the differential diagnosis of intramedullary lesions. Magnetic resonance imaging is the best neuroimaging technique for achieving a definitive preoperative diagnosis. Total surgical resection should be the goal; however, recurrence has been reported following incomplete removal [3].

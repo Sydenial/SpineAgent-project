@@ -1,0 +1,49 @@
+# Spinal dural arteriovenous fistula (SDAVF) variant with dual perimedullary and epidural drainage
+
+## Abstract
+
+### Purpose
+A spinal dural arteriovenous fistula (SDAVF) is an abnormal connection between a radiculomeningeal artery and a radiculomedullary vein (RMV) characteristically draining into the perimedullary venous system. We present an observation of SDAVF draining simultaneously into the perimedullary and epidural venous systems.
+
+### Methods
+A 67-year-old man presented with lower extremity weakness and sphincter dysfunction. MRI documented a longitudinally extensive myelopathy with parenchymal enhancement and flow-voids on T2-weighted images. Spinal angiography revealed the presence of two SDAVFs, at left T9 and right L1.
+
+### Results
+The right L1 SDAVF was treated endovascularly. Superselective angiography of the main feeder, a right T12 radiculomeningeal branch, documented an unusual drainage pattern, with contrast flowing both retrogradely towards the perimedullary venous system and antegradely into the epidural plexus. The meningeal branch was embolized using a liquid embolic agent with adequate penetration of the embolic material into the proximal segment of the draining vein. The left T9 SDAVF was surgically resected, as the radicular artery supplying the fistula also provided the artery of Adamkiewicz.
+
+### Conclusions
+Dual drainage of the right L1 SDAVF into the perimedullary and epidural venous systems allowed to locate the site of the arteriovenous shunt at the point of transdural passage of the RMV, a narrowed segment also known to represent an anti-reflux mechanism. The potential role played by the topographical relationship between the shunt and the anti-reflux mechanism of the RMV in the formation and clinical expression of SDAVFs is discussed.
+
+Keywords: Spinal vascular malformation; Spinal angiography; Spinal venous thrombosis; Etiology
+
+## Introduction
+
+While spinal dural arteriovenous fistulas (SDAVFs) were noticed long before the introduction of spinal angiography, notably in the form of dilated perimedullary veins observed during anatomical dissection or necropsies, their nature remained unclear until the introduction of selective spinal angiography in the late nineteen-sixties and the publication of two landmark contributions in the mid-nineteen-seventies. Aminoff first suggested the role of venous hypertension in the presentation of spinal malformations in 1974 [1] while Kendall and Logue identified the foraminal location of SDAVFs in 1977 [6].
+
+It is now accepted that SDAVFs are made of a microshunt found within the dura mater surrounding the spinal nerve root in the neural foramen [3, 9]. This arteriovenous shunt establishes an abnormal connection between a radiculomeningeal artery and a radiculomedullary vein (RMV) as the latter passes through the thecal sac. SDAVFs drain into the perimedullary venous system via the involved RMV. This retrograde drainage—combined with characteristically impaired perimedullary and radiculomedullary venous pathways [8, 10]—results in a slowly progressive venous hypertensive myelopathy that preferentially involves older men [2, 8]. While instances of spinal epidural arteriovenous fistulas wrongly considered as SDAVFs draining into the epidural venous system have been published [7], the partial or complete drainage of an SDAVF into the internal vertebral venous plexus (IVVP) has to our knowledge not been previously reported.
+
+## Case Report
+
+A 67-year-old man presented with progressive lower extremity weakness and pain associated with sphincter dysfunction. MRI documented a longitudinally extensive myelopathy with parenchymal enhancement and flow-voids on T2-weighted images (Fig. 1a). The patient was initially diagnosed with transverse myelitis, but sudden clinical pejoration during the administration of intravenous steroid therapy raised the possibility of a vascular etiology. He was referred to our service for spinal angiography, which revealed the presence of two separate low-flow spinal arteriovenous fistulas. The first anomaly was a left T9 SDAVF with a typical drainage pattern. The radicular branch supplying this lesion also provided the artery of Adamkiewicz (Fig. 1b).
+
+The location of the second shunt was typical of an SDAVF as well: the arteriovenous shunt—supplied principally by a descending T12 meningeal branch—was located at the site of passage of a right L1 RMV through the thecal sac. However, the venous drainage was unusual, with contrast flowing both retrogradely towards the perimedullary venous system and antegradely into the IVVP (Fig. 1c). A lesser arterial contribution from the right L1 intersegmental artery was also noted (Fig. 1d).
+
+It was decided to address the right L1 SDAVF endovascularly before treating the left T9 SDAVF surgically, in consideration of the common origin of the fistula supply and the artery of Adamkiewicz. Superselective angiography of the right T12 radiculomeningeal branch confirmed the peculiar flow pattern noted above and also documented a small posterior radiculomedullary contribution (Fig. 1e). The meningeal branch was successfully embolized with a liquid embolic agent (NBCA, Trufill, Codman Neurovascular) at a 20/80 NBCA to ethiodol ratio, which allowed adequate penetration of the embolic material into the proximal segment of the draining vein without untoward embolization of the posterior radiculomedullary branch (Fig. 1f, g). Control angiography confirmed eradication of the right T12 contribution to the fistula and elimination of the retrograde drainage but persistence—from the right L1 injection—of anterograde flow towards the IVVP (Fig. 1h, i). The latter was considered nonsignificant and left untreated.
+
+Following embolization, the patient noticed immediate improvement in his lower extremity pain and was otherwise unchanged. He subsequently underwent successful surgical treatment of the left T9 lesion, and was discharged to a rehabilitation facility 3 days later.
+
+## Discussion
+
+Logue wondered in 1979 "why, in the case of the extradural AVM (our current SDAVF), does the venous drainage pierce the theca to attain the cord rather than enter directly into the adjacent extradural venous plexus?" [8]. While it has now been established that the drainage does not actually pierce the dura mater, the shunt being located within the two layers of the thecal sac, it remains unclear why the intradural shunts drain—as a rule—into an RMV rather than towards the internal or external venous plexuses.
+
+The answer must likely take into account the role played by the so-called "anti-reflux mechanism" both in the formation and clinical expression of SDAVFs. Rather than an actual valve preventing the passage of epidural blood into the perimedullary venous system—for example during a Valsalva maneuver—the anti-reflux mechanism appears to be principally made of a focal narrowing of the RMV as it passes obliquely within the two layers of the thecal sac [11-14]. It has been suggested that this focal narrowing represents a risk factor for RMV thrombosis [5], subsequently leading to the formation of SDAVFs through a recanalization and arterialization process similar to the mechanism believed to be at the origin of cranial dural arteriovenous fistulas [4]. This hypothesis would also account for the paucity of functional RMVs and the diffuse spinal drainage impairment typically observed with acquired low-flow arteriovenous shunts [8, 10], and explain their presentation in older patients.
+
+While the role of the anti-reflux mechanism remains hypothetical, it appears to be supported by the observation presented here. In our case, the atypical intra- and extradural drainage of the SDAVF offered a unique insight into the location of the arteriovenous shunt along the RMV. A fast frame rate angiographic sequence confirmed that the shunt was precisely involving the narrow segment of RMV corresponding to the anti-reflux mechanism, at the point of passage of the vein through the thecal sac. The angiographic data—showing slightly faster opacification of the intradural portion of the RMV—and the NBCA cast—documenting only retrograde distribution of the liquid embolic agent—seem to imply that the arteriovenous shunt was either located on the proximal end of the anti-reflux mechanism or that the lesion included more than one point of arteriovenous shunting.
+
+The anti-reflux mechanism can often be appreciated angiographically as a near occlusive stenosis of the RMV (Fig. 2). It appears reasonable to suggest that the flow impairment resulting from such a stenosis may lead to thrombosis of the RMV [5] without impacting the adjacent portion of epidural venous plexus, which has alternate afferent and efferent pathways. Recanalization and arterialization of the segment of RMV located proximal to the anti-reflux mechanism would result in the characteristic drainage pattern of SDAVFs towards the perimedullary venous system.
+
+It remains, however, unclear why SDAVFs drain exclusively intradurally. Even with the assumption that a collapsed and sealed anti-reflux mechanism constitutes a barrier between intra- and extradural drainage, one has to wonder, as Logue did, why similar arteriovenous shunts draining into the short extradural segment of the RMV have not been reported. It is conceivable that such fistulas do exist, but are not diagnosed due to their benign nature and lack of clinical expression (not unlike the small residual lesion left untreated in our observation). It is also possible that these lesions—when incidentally discovered—are falsely labeled as spinal epidural arteriovenous fistulas due to their close proximity with the IVVP.
+
+## Conclusions
+
+Our observation suggests that a close topographical relationship exists between SDAVFs and the anti-reflux mechanism of the RMV. This relationship may play a role both in the formation and clinical expression of SDAVFs.

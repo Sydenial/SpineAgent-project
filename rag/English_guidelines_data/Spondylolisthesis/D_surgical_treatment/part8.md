@@ -1,0 +1,43 @@
+## New Guideline Question
+
+### Do minimally invasive surgical treatments improve outcomes in the treatment of degenerative lumbar spondylolisthesis compared to:
+- a. conventional open decompression (laminectomy)?
+- b. conventional (open) lumbar decompression and fusion, with or without instrumentation?
+
+No evidence was found to assess the efficacy of minimally invasive surgical techniques versus open decompression alone in the surgical treatment of degenerative lumbar spondylolisthesis.
+
+While both minimally invasive techniques and open decompression and fusion, with or without instrumentation, demonstrate significantly improved clinical outcomes for the surgical treatment of degenerative lumbar spondylolisthesis, there is conflicting evidence regarding which technique leads to better outcomes.
+
+## Grade of Recommendation: I (Insufficient/Conflicting Evidence)
+
+Harris et al. conducted a retrospective comparative study of 51 total patients undergoing 2 types of fusion surgeries with bilateral decompression for the treatment of degenerative spondylolisthesis with spinal stenosis. Patients underwent either fusion using a standard, midline open technique (open group, n=21) or fusion using a mini-open technique, with a small, central incision for the decompression and bilateral paramedian incisions for the posterolateral fusion and placement of cannulated pedicle screws (mini-open group, n=30). All patients in this retrospective review had documented preoperative and postoperative Visual Analog Scale (VAS) and Oswestry Disability Index (ODI) scores. Postoperative anteroposterior (AP) fluoroscopic images and lateral radiographs were also taken at 12 months after surgery. 
+
+The mean preoperative VAS score was 7.58 in the open group and 7.78 in the mini-open group (P=0.74). By 3-month follow-up, the mean VAS score had improved to 2.68 in the open group and 2.89 in the mini-open group. By one-year follow-up, this score had improved to 2.38 in the open group and 2.32 in the mini-open group. The improvement at 3 months and one year after surgery was statistically significant (p<0.05); however, there were no statistically significant differences in improvement between the groups at either follow-up period (p=0.95). 
+
+Both groups' mean preoperative ODI score was 45.7 (consistent with severe disability). By 3-month follow-up, the mean ODI score had improved to 27.2 (moderate disability) in the mini-open group and 19.0 (minimal disability) in the open group. By one-year follow-up, the mean ODI score had improved further, to 6.4 (minimal disability) in the open group and 13.9 (minimal disability) in the mini-open group. Similar to pain scores, the improvement in disability at 3 months and one year after surgery was statistically significant (p<0.05); however, there were no statistically significant differences in improvement between the groups at either follow-up period (p=0.19). 
+
+Radiological review found only 2 fusion failures. In the open group, one patient showed isolated radiolucency around one of the L4 pedicle screws, as well as lack of bridging posterolateral bone graft on the AP radiograph. In the mini-open group, one patient showed radiolucency around one of the L5 screws, as well as lack of bridging bone between the L4 and L5 transverse processes. The authors conclude that the standard open fusion and decompression and less invasive fusion techniques are equally effective in providing statistically significant improvement in leg pain (VAS scores) and function (ODI scores) at 3-month and one-year follow-ups. 
+
+This study provides Level III therapeutic evidence that open exposure decompression and fusion (traditional midline incision) and minimally invasive mini-open exposure (3 small incisions) are effective surgical treatment options with equivalent short-term and medium-term outcomes for patients with degenerative lumbar spondylolisthesis.
+
+In a prospective comparative study, Kotani et al. compared the clinical outcomes of degenerative spondylolisthesis with spinal stenosis patients undergoing MIS posterolateral fusion (PLF, n=43) to patients undergoing conventional PLF (n=37). There were no statistically significant differences in gender, age, vertebral level, and degree of spondylolisthesis between the groups. Patients were evaluated over a period of at least 2 years using the Japanese Orthopaedic Association (JOA) score, Oswestry-Disability Index (ODI), Roland-Morris Questionnaire (RMQ), the visual analogue scale of low back pain (LBP VAS), and the surgical complication rate. Fusion status was evaluated by radiograph studies and CT scans at the final follow-up visit.
+
+Results indicated that the average operation time was statistically equivalent between the two groups. Intraoperative blood loss was significantly less (p<0.01) in the MIS-PLF group (181 ml) compared to the open-PLF group (453 ml). The postoperative bleeding on day one was also significantly less (p<0.01) in the MIS-PLF group (210 ml) compared to the open-PLF group (406 ml). 
+
+At 3 months, the MIS-PLF group demonstrated a further decrease to an average of 13.2; however, the average score for the open-PLF group remained 32.1. This difference was statistically significant (p<0.001) and was maintained at 6, 12, and 24 months postoperatively (p<0.01). The authors suggest that the MIS-PLF utilizing percutaneous pedicle screw fixation serves as an alternative technique to the conventional open approach.
+
+This study provides Level III therapeutic evidence that the MIS-PLF procedure has better short-term and medium-term clinical outcomes when compared to conventional open-PLF in patients undergoing surgical treatment for degenerative spondylolisthesis with spinal stenosis.
+
+In a retrospective comparative study, Mori et al. evaluated 53 patients with degenerative lumbar spondylolisthesis who underwent either spinous process-splitting (SPS) open pedicle screw fusion (PSF, n=27) or conventional open PSF (n=26) for a single-level instrumented posterior lumbar decompression and fusion. Radiographic and clinical outcomes were assessed using MRI, the Japanese Orthopedic Association (JOA) score, the Roland-Morris disability questionnaire (RDQ), and the visual analog scale (VAS) for low back pain and low back discomfort at one to 3 years after surgery. 
+
+Results indicated that there were no statistically significant differences between the groups for JOA, RDQ, or VAS scores for low back pain and low back discomfort at follow-up. However, one year after the surgery, the average VAS score for low back pain in the SPS open PSF group was significantly lower than that in the conventional open PSF group (1.5±1.6 and 2.8±2.3, respectively, p<0.05). 
+
+The authors suggest that SPS open PSF was less damaging to the paraspinal muscle than the conventional open PSF and resulted in improved clinical outcomes and less low back discomfort at one year after surgery. This study provides Level III therapeutic evidence that the minimally invasive SPS and PSF surgical technique may result in better surgical outcomes when compared to the conventional open PSF technique.
+
+Adogwa et al. conducted a retrospective study to compare surgical and functional outcomes of patients undergoing either minimally invasive (MIS) or open transforaminal lumbar interbody fusion (TLIF) for Grade I degenerative spondylolisthesis. Patients were excluded if they were above 70 years of age. Thirty patients were included in the analysis, including 15 in the MIS-TLIF and 15 in the open TLIF. Outcomes were assessed at 2 years via visual analog scale (VAS), low-back disability (ODI), EuroQol-5D, occupational disability, and narcotic use. 
+
+The authors suggest that MIS-TLIF may allow for shorter hospital stays, reduced postoperative narcotic use, and accelerated return to work, resulting in less direct medical costs and indirect costs of lost work productivity associated with TLIF procedures. This study provides Level III therapeutic evidence that both minimally invasive and open TLIF provide long-term improvement in pain and disability, and the minimally invasive technique may allow for an accelerated recovery and return to work time.
+
+## Future Directions For Research
+
+The work group recommends the undertaking of randomized controlled trials or prospective studies comparing the efficacy and durability of minimally invasive (MIS) to open techniques. It is important to note that MIS recommendations are complicated by the lack of a consistent definition of what constitutes MIS; therefore, the work group recommends that MIS is clearly and consistently defined in any future studies evaluating the efficacy of MIS surgical techniques.

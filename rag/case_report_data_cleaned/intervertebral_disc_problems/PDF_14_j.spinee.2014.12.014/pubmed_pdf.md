@@ -1,0 +1,81 @@
+# Anterior retropharyngeal approach to C1 for percutaneous vertebroplasty under C-arm fluoroscopy
+
+## Abstract
+
+BACKGROUND CONTEXT: Percutaneous vertebroplasty (PVP) has proven to be a valuable palliative treatment option for patients with medically refractory painful osteolytic metastases of the spine. Percutaneous vertebroplasty of the atlas has been reported in only seven articles and has been performed with different techniques and approaches.
+
+PURPOSE: To describe the technique we used to perform PVP of a lytic lesion of the lateral mass of C1 via anterior retropharyngeal approach guided by C-arm fluoroscopy.
+
+STUDY DESIGN: A technical report.
+
+PATIENT SAMPLE: It included a 75-year-old man with known metastatic lung carcinoma and incapacitating right suboccipital and neck pain refractory to conventional medical treatment. Radiologic evaluation revealed osteolytic destruction of C1 and C2, mainly invading the right lateral mass of C1 and the vertebral body of C2.
+
+OUTCOME MEASURES: The right suboccipital and neck pain was measured using the visual analog scale (VAS).
+
+METHODS: Under C-arm fluoroscopy, a novel anterior retropharyngeal approach, through the vertebral body of C2 into the metastatic osteolytic vertebral lesion of C1, was performed to achieve the PVP in C1 followed by a PVP in C2.
+
+RESULTS: Immediately after the operation, the patient reported substantial pain relief (from VAS 9/10 preoperatively to 3/10). At 12 hours postoperatively, the range of motion was also improved. There were no surgery-related complications. The immediate postoperative plain film and computed tomography scan showed adequate filling of the osteolytic lesion without obvious leakage of bone cement. Clinical follow-up at 3 months revealed that this pain condition was improved and maintained (VAS 1/10).
+
+CONCLUSIONS: When the transoral approach is unsuitable or contraindicated, the anterior retropharyngeal approach could be an efficacious alternative in selected patients with C1 metastasis, providing adequate filling of bone cement and significant pain relief. Based on preliminary exploration, only assisted by C-arm fluoroscopy, this approach is feasible to achieve PVP in C1 under local anesthesia and intravenous analgesia. Nevertheless, when considering the substantial potential risks, this technically challenging procedure should be performed by experienced operators.
+
+## Introduction
+
+As the skeleton is most commonly affected by metastatic cancer, secondary spine lesions account for approximately one-third of skeletal metastases, making the vertebral column a leading osseous target for metastatic tumor [1]. Among all spinal metastatic cancers, metastases to the cervical spine are deemed to be far less common than those to the thoracic and lumbar spine, in which metastasis to the upper cervical spine is less common, constituting less than 1% of all spinal metastases [2].
+
+Currently, percutaneous vertebroplasty (PVP) has proven to be a valuable palliative treatment option for selected patients with medically refractory painful osteolytic metastases of the upper cervical spine, allowing reinforcement of the vertebral body and pain alleviation. However, percutaneous cement augmentation of the atlas, to the best of our knowledge, has been described in only seven articles [2–8]. The paucity of related reports reflects that PVP at this level is an extremely challenging procedure, owing to complex anatomy and close proximity of vital structures. We report a novel anterior retropharyngeal approach, in which polymethylmethacrylate (PMMA) is injected under local anesthesia and intravenous analgesia through the vertebral body of C2 into the metastatic osteolytic vertebral lesion of C1 to alleviate intractable suboccipital and neck pain.
+
+## Methods
+
+A 75-year-old man with known metastatic lung carcinoma and incapacitating right suboccipital and neck pain refractory to conventional medical treatment was admitted to our institution. The pain was exacerbated by rightward head rotation, it reduced the range of motion, and was intractable to medical treatment. Plain film, computed tomography (CT) scan, and magnetic resonance imaging of the cervical spine revealed osteolytic destruction of C1 and C2, mainly invading the right lateral mass of C1 and the vertebral body of C2 (Figs. 1–3). There was no instability on flexion/extension cervical spine films. There was clear evidence of no fracture or spinal canal involvement. Thoracic CT scan confirmed a massive hydrothorax (Fig. 4).
+
+When considering the widely metastatic nature of his disease, with the goals of pain relief, preservation of neurologic function, stabilization of the vertebral column, and prevention of pathologic fracture, PVP was proposed in a multidisciplinary meeting. Permission for a clinical trial was granted by the institutional review board from the hospital, and informed consent about potential complications was obtained from the patient.
+
+The patient was placed in the supine position on a radiolucent table, whose neck was oriented in a hyperextensive position using an inflatable, adjustable pillow placed behind his neck. The entire process of PVP was performed under double control by anteroposterior and lateral C-arm fluoroscopy, with basic monitoring such as electrocardiography, pulse oximetry, and noninvasive monitoring of blood pressure. After aseptic draping, local anesthesia was provided with 5 mL of 1% lidocaine, combined with intravenous analgesia using 100 μg of fentanyl. Further PVP was achieved in C2 and C1 sequentially.
+
+Once the level of C3 was demarcated, a 5-mm skin incision was made medial to the right sternocleidomastoid muscle. Care was taken while approaching the anterior cervical spine, keeping the carotid artery lateral and the tracheoesophagus medial, by using the index and middle fingers of the left hand. Subsequently, the operator inserted these fingers inside toward the anterior inferior edge of the vertebral body of C2. Through the skin incision, between these two fingers, a puncture-needle complex, incorporating a nonbeveled sheath of the vertebroplasty needle outside and a blunted K-wire inside, was inserted cranially and medially and placed on the anterior surface of C2. After correct placement was confirmed, the sharp stylet replacing the inner K-wire was subsequently inserted along the oblique sheath and into the vertebral body of C2. Once the tip of the stylet reached a suitable position within C2, approximately 2.5 mL of high-viscosity and radiopaque PMMA was injected through the access cannula in small increments of about 0.3 mL.
+
+Subsequently, the puncture-needle complex was slightly retrieved and then repositioned toward the right lateral mass of C1. When it was placed in C1 satisfactorily and the integrity of the inner wall was confirmed by a blunted K-wire, about 1 mL of PMMA was slowly injected via a syringe in small increments of about 0.3 mL. After ensuring no extravasation of cement into the adjacent organs, especially the venous plexus and the epidural space, the needle was slowly withdrawn. The whole procedure was performed within a total time of 45 minutes.
+
+## Results
+
+Immediately after the operation, the patient reported substantial pain relief (from visual analog scale 9/10 preoperatively to 3/10). At 12 hours postoperatively, the range of motion was also improved. There were no surgery-related complications, such as bleeding, tracheoesophageal injury, vagus nerve injury, cement leakage, or embolism. The immediate postoperative cervical plain film and CT scan showed adequate filling of the osteolytic lesion without obvious leakage of bone cement. Clinical follow-up at 3 months revealed that this pain condition was improved and maintained (visual analog scale 1/10).
+
+## Discussion
+
+The current treatment algorithm for metastatic spinal tumors incorporates radiation therapy, pharmacologic therapy, and surgery, which is provided by a multidisciplinary team of spinal surgeons, radiation oncologists, medical oncologists, interventional radiologists, and rehabilitation medicine physicians. Although the quality and duration of life for patients with metastatic spinal tumors have been significantly improved, palliative treatment remains the main goal of treatment. As a largely palliative surgery, PVP shows its irreplaceable value in pain relief and in reinforcement of the vertebral body for patients with metastatic cancer, especially when the patients succumb to systemic complications and where aggressive surgical treatment is unwarranted [1].
+
+The possible mechanisms by which PMMA produces an analgesic effect involve action to mechanically stabilize vertebral microfractures, an exothermic reaction during polymerization of the cement, and a neurotoxic effect of the monomer on surrounding nervous end structures [9,10]. Meanwhile, based on the exothermic reaction, neurotoxicity, and the possibility as a drug delivery system, PMMA could contribute to tumor necrosis and reduction in tumor volume [11]. However, to the best of our knowledge, only a total of seven articles have reported PVP of C1. According to the locoregional anatomy, various techniques with anterior, translateral, and posterior approaches, under CT, biplanar fluoroscopy, or combined CT and fluoroscopy guidance, have been described by the previous seven reports [2–8].
+
+### Posterior approach
+
+Depending on the needle trajectory, whether it is parallel to the long axis of the lateral mass, the posterior approach is divided into the posterolateral approach and the direct posterior access. Performing PVP via posterior access is the most direct and targeted approach, avoiding the neurovascular structures in the carotid space. Nevertheless, occipital neuralgia could be a worrisome sequela.
+
+### Translateral approach
+
+Facing the significant technical challenge to bypass the lateral carotid sheath and the medial vertebral artery, CT guidance was mandatory to obtain a precise and safe needle insertion, avoiding direct puncture of vital structures adjacent to the lesion. Of note, the needle trajectory should be along the posterior rim of the carotid sheath and in the direction of the anterior rim of the vertebral artery, by adjusting the direction of the needle tip twice, as in the previously reported technique.
+
+### Anterior approach
+
+As the vertebral column receives an extensive arterial blood supply, most metastatic tumors invade the vertebral body via hematogenous transmission. Based on that, the anterior approach is deemed to represent the more direct route to the lesion, incorporating the transoral and the retropharyngeal approaches.
+
+#### Transoral approach
+
+This approach is largely applied for treating tumors of the upper cervical spine, notably C2. However, because of a thin layer that separates the upper cervical spine from the oral mucosa, increasing the risk of infection, at least theoretically, is the primary concern about this technique. Once infection of the posterior oropharyngeal wall spreads along the cervical fascia invading the meningeal layers, it could lead to devastating complications including retropharyngeal abscess, meningitis, and encephalitis [12]. Improvement in aseptic techniques, a thinner needle used during the procedure, short operative duration, and perioperative antibiotics, notably the antibiotics added to the PMMA cement intraoperatively, contribute to reducing the infection rate during PVP. Among all approaches, this is the only approach in which general anesthesia and intubation are necessary. In some cases, after foregoing radiation therapy to manage the primary craniofacial cancer, the transoral route was not possible for the patient with difficulty opening his mouth.
+
+#### Retropharyngeal approach
+
+Among all the possible approaches to perform PVP in the atlas, our approach is the last piece of the entire puzzle, which has never been reported until now.
+
+This approach could probably place many neurovascular structures at risk, such as important blood vessels (internal jugular vein and vertebral and carotid arteries) and nerves (vagal, spinal, accessory, lingual, hypoglossal, marginal mandibular, and laryngeal) and the submandibular gland. In our experience, we only used the puncture-needle complex, incorporating a nonbeveled sheath of the vertebroplasty needle outside and a blunted K-wire inside, which was used for blunt dissection avoiding direct puncture from the sharp needle. When inserted through the skin incision into the space between the carotid sheath and the tracheoesophagus, it could advance stepwise with the assistance of blunt dissection arriving at the anterior vertebral cortex. After assessment of correct placement of the outside sheath with C-arm fluoroscopy, the sharp stylet was subsequently inserted through the outside sheath. By modifying the puncture process and using the novel access, we achieved PVP of C1 by anterior retropharyngeal approach successively, which was followed by conventional PVP in C2. It is beneficial in avoiding secondary skin puncture and reducing the likelihood of surgery-related risks.
+
+Regarding the most common complication—cement leakage—a blunted K-wire, as a probe, is extremely valuable for ensuring the integrity of the inner wall within the vertebral body. Notably, in this case, vertebral phlebography was absent. Besides, injection in small increments, approximately 0.3 mL each time, notably under anteroposterior C-arm fluoroscopy, is also recommended.
+
+Because general anesthesia is dispensable, under local anesthesia and intravenous analgesia the patient could communicate with the operator throughout the whole procedure, facilitating immediate detection of any neurologic symptoms or complications. Furthermore, the patient could adjust the position of the mandible, which is extremely significant for highlighting the dens and lateral mass under C-arm fluoroscopy. However, if the procedural pain becomes unbearable, an uncontrolled patient can be extremely worrisome. Therefore, adequate local anesthesia, covering the cervical fascia, the anterior longitudinal ligament, and anterior periosteum, combined with intravenous analgesia, contributes to enhance the tolerability and safety of the entire operation.
+
+Maintaining overextension is difficult and impractical for obese patients with short necks and for those in severe pain. Additionally, it is worrisome that long-time overextension could affect perfusion of the vertebrobasilar artery and thus lead to ischemic stroke. Based on our successful attempts of PVP in other cervical levels, the operation duration is controlled in approximately 30 minutes. Besides, when both C1 and C2 are invaded by metastatic cancer, as in this case, avoiding secondary skin puncture could also facilitate shortening the whole operation time. Consequently, ischemic stroke did not occur in our case.
+
+The innovation in our article is not only the use of a puncture-needle complex, incorporating a nonbeveled sheath of vertebroplasty needle outside and a blunted K-wire inside, for decreasing puncture-related risk to neurovascular structures, but also aiming at PVP of C1, proposing a novel anterior retropharyngeal intraosseous route through the vertebral body of C2 into the lateral mass of C1. Additionally, it is illustrated that PVP of C1 is feasible only when guided by C-arm fluoroscopy, which is extremely valuable for some grassroots hospitals without intraoperative CT. In cases with metastatic cancers eroding C1 and C2 simultaneously, one skin entry point could shorten the whole operation duration.
+
+## Conclusion
+
+When the transoral approach is unsuitable or contraindicated, the anterior retropharyngeal approach could be an efficacious alternative in selected patients with C1 metastasis, providing adequate filling of bone cement and significant pain relief. Based on preliminary exploration, only assisted by C-arm fluoroscopy, this approach is feasible to achieve PVP in C1 under local anesthesia and intravenous analgesia. Nevertheless, when considering the substantial potential risks, this technically challenging procedure should be performed by experienced operators.

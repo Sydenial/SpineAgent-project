@@ -1,0 +1,13 @@
+# What is the role of traction (manual or mechanical) in the treatment of lumbar disc herniation with radiculopathy?
+
+There is insufficient evidence to make a recommendation for or against the use of traction in the treatment of lumbar disc herniation with radiculopathy.
+
+## Grade of Recommendation: I (Insufficient Evidence)
+
+Unlu et al. conducted a prospective randomized controlled trial comparing the outcomes of traction, ultrasound (US), and low power laser (LPL) therapies in patients with acute lower back pain and leg pain caused by lumbar disc herniation. Of the 60 consecutive patients included in the study, 20 were assigned to each treatment group: mechanical traction with 35-50% body weight, ultrasound, and low power laser. Outcomes were assessed at three months using VAS, ODI, Roland Morris, clinical signs, and MRI disc morphology. There were significant reductions in pain and disability scores between baseline and follow-up in all three groups. There was a significant reduction in the size of the disc herniation on MRI after treatment. There was no correlation between clinical findings, pain and disability scores, and change in lumbar disc herniation size. The authors concluded that traction, ultrasound, and low power laser therapies were all effective in the treatment of this group of patients with acute lumbar disc herniation. 
+
+Because the randomization method was not defined, along with the small sample size, this potential Level I study provides Level II evidence that pain and disability due to acute lumbar radiculopathy secondary to lumbar disc herniation may improve over three months in patients undergoing mechanical traction with 35-50% body weight; however, it is equal in effectiveness to low power laser and ultrasound. The study provides case series (Level IV) evidence that pain and disability due to acute lumbar radiculopathy secondary to LDH may improve over three months in patients undergoing mechanical traction with 35-50% body weight. Since the study did not include an untreated control group, the possibility of spontaneous improvement in this group of patients cannot be excluded.
+
+## Future Directions for Research
+
+An RCT with long-term follow-up and validated outcome measures would assist in providing evidence to assess the efficacy of traction in the treatment of lumbar disc herniation with radiculopathy. When ethically possible, this would be compared to an untreated control group. Other active treatment groups could be substituted as a comparative group.

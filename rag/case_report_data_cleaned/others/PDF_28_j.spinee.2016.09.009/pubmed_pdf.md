@@ -1,0 +1,62 @@
+# Unusual presentation of osteoblastoma as vertebra plana – a case report and review of literature
+
+## Abstract
+
+### Background
+Osteoblastoma is rare and accounts for 3% of all benign tumours and 1% of all bone tumours. The spine is the most common site of occurrence, constituting 32 to 45% of all osteoblastomas. It has a strong predilection for the posterior elements, most often occurring in the lumbar spine.
+
+### Methods
+In this case report, we describe an unusual presentation of spinal osteoblastoma presenting as thoracic T9 vertebra plana in a 20-year-old female. She presented with discomfort over the midback with unsteadiness of gait. The patient underwent detailed investigations including CT, MRI and CT guided biopsy. To our knowledge, this is the first case report of vertebra plana due to spinal osteoblastoma in the English literature.
+
+### Results
+The patient successfully underwent posterior decompression of T9 with laminectomy followed by MIS (Minimally Invasive Surgery) posterior instrumentation from T7 to T11. Histopathology of the intraoperative specimen was consistent with osteoblastoma. The patient had an uneventful postoperative recovery and no evidence of tumour recurrence could be demonstrated on PET scan at 15 months' follow-up.
+
+### Conclusion
+In conclusion, the differential diagnosis for vertebra plana is extensive and we add spinal osteoblastoma as another etiology to the existing list. Diagnosis and treatment of vertebra plana involves multimodality radiological imaging, and careful histological and surgical evaluation to identify the underlying etiology.
+
+### Keywords
+Plana, Presentation, Osteoblastoma, Vertebra, Excision
+
+## Introduction
+The term “vertebra plana” is the radiological description of partial destruction and flattening of a vertebral body with relative preservation of the adjacent intervertebral disc spaces. The commonest cause of vertebra plana in the pediatric and adolescent population is Langerhans cell histiocytosis. Malignant causes of vertebra plana include metastatic disease, lymphoma, leukemia, multiple myeloma and Ewing's sarcoma. Other, less common etiologies include trauma, Gaucher's disease, osteomyelitis, coccidiodomycosis, tuberculosis, myofibromatosis, aneurysmal bone cyst (ABC) and giant-cell tumour (GCT) [1]. We describe an unusual presentation of vertebra plana secondary to an osteoblastoma in a 20-year-old female. We have also briefly reviewed the pertinent literature.
+
+## Case Report
+In February 2015, a 20-year-old female patient was referred to us from a general practitioner complaining of midback pain for 2 months duration. She also complained of intermittent numbness of both feet with occasional loss of balance on walking resulting in falls. She was both bowel and bladder continent. There was no significant past medical history.
+
+On examination, she had a gibbus deformity at T9 with localized tenderness on palpation. Detailed neurological examination revealed full power of both lower limbs with no objective sensory loss to touch and pain. However, proprioception and vibration were reduced in both lower limbs. Bilateral knee and ankle jerks were hyper-reflexic. In addition, a positive tandem and broad based gait were apparent.
+
+Radiographs of the thoracolumbar spine showed solitary T9 vertebra plana with more than 80% loss of vertebral height and sclerosis. This prompted us to do detailed workup to rule out infection and malignancy. Blood investigations for total cell count, ESR, and CRP were normal. Workup for multiple myeloma was negative. Tumour markers levels (CEA, CA125, AFP, beta hCG) were also within normal limits. Bone scintigraphy revealed intense radioactive tracer uptake (technetium-99m MDP) at the T9 vertebra indicative of high bone turnover. A CT scan showed T9 vertebra plana with expansile, mainly lytic soft tissue replacement of the bony trabeculae throughout the body, pedicles, laminae, transverse and spinous processes. Cortical breach was seen predominantly at the left pedicle with evidence of hyperdense soft tissue extension into the spinal canal.
+
+An MRI scan demonstrated isointense T1W signal with heterogeneous iso to hyperintense T2W signal throughout the collapsed T9 vertebral body and posterior elements. There was corresponding intense post contrast enhancement with pre and paravertebral soft tissue extension and circumferential epidural extension enveloping and compressing the cord. The differential diagnosis included a GCT/ABC, Langerhans cell histiocytosis or a malignant entity such as lymphoma.
+
+CT guided biopsy was performed using a T9 right transpedicular approach. Histopathology was reported as an osteoblastic lesion most likely an osteoblastoma. Gram staining, aerobic, anaerobic, fungal and AFB (Acid Fast Bacillus) cultures were negative.
+
+Upon discussion with the patient and their family the decision was made for surgical decompression. Posterior decompression of T9 with laminectomy followed by MIS posterior instrumentation from T7 to T11 (Longitude; Medtronic) was performed. In addition to thorough decompression of the thoracic cord and excision of the expanded posterior elements, transpedicular curettage of the vertebral body was done to ensure maximal removal of tumour.
+
+Histopathology of the intraoperative curetted specimens confirmed the diagnosis of osteoblastoma. It showed prominent new osteoid and anastomosing trabeculae of woven bone formation with plump osteoblasts and prominent vascular stroma. No atypia or abnormal mitosis was noted. Immunohistochemistry (CD1a, CD138, and AE1/3) were negative for Langerhans cell histiocytosis or metastatic carcinoma.
+
+After discussion at the multidisciplinary tumour board and with the patient, it was decided not to proceed with anterior vertebrectomy and to closely observe the patient for future recurrence with 6-monthly CT.
+
+CT scan at 1-year follow-up showed evidence of reossification and did not reveal any evidence of tumour recurrence. In addition, a PET scan at 15 months' follow-up did not show any suspicious tumour activity.
+
+## Discussion
+The classic radiographic findings of vertebra plana as described by Calvé [3] and Buchman [2] include: (1) involvement of only one vertebra, (2) lack of adjacent intervertebral disc involvement, (3) widened intervertebral disc, and (4) greater opacity or sclerosis of the involved collapsed vertebral body. The differential diagnoses of vertebra plana are many and a detailed workup including CT, MRI, bone scan and CT guided biopsy is of paramount importance.
+
+Osteoblastoma is rare and accounts for 3% of all benign tumours and 1% of all bone tumours [8]. It is common in the second or third decades, although presentation at the extremes of age has also been described. It is twice as common in males as in females. The most common site of occurrence is the spine constituting 32 to 45% of all osteoblastomas [8, 24]. It has a strong predilection for the posterior elements, although uncommonly it can extend into the posterior vertebral body and other regions of spine.
+
+In 1956, Jaffe and Lichtenstein differentiated osteoblastoma from osteoid osteoma and identified it as a separate entity, although both are variants of the same basic lesional process of osteoblastic derivation [4–6]. Subsequently, Dorfman and Weis introduced the entity “aggressive osteoblastoma” which was associated with a higher recurrence rate and risk of malignant transformation. Osteoblastoma can be classified into two subtypes; conventional osteoblastoma (stage 2 Enneking) and aggressive osteoblastoma (stage 3 Enneking). Stage 2 lesions are contained within the bone and stage 3 lesions present with cortical breach and soft tissue extension. Hence, spinal deformities, neurological deficits and recurrence rates are higher in aggressive osteoblastoma [8].
+
+Boriani et al. [9] reported paraparesis in 75% of patients with osteoblastoma involving the thoracic spine secondary to cord compression (6 out of 8 patients). Ozaki et al. [12] reported 69% incidence (9 out of 13 patients) of paraparesis in his study group of patients. The radiological findings in our patient correspond to an aggressive osteoblastoma subtype with the presence of an expansile lesion with cortical breach, soft tissue mass and presence of subtle neurological findings.
+
+Osteoblastoma is a benign bone forming tumour with histology similar to osteoid osteoma. In comparison to osteoid osteoma, osteoblastomas tend to be larger in size (>2 cm), expansile and often present with cortical breach and a soft tissue mass. Spinal osteoblastomas usually present with dull back pain. However, night pain and dramatic response of pain to NSAIDs, which are typical features of osteoid osteoma, are not commonly seen in osteoblastoma. Scoliosis has also been described in osteoblastoma, though less common than in osteoid osteoma [13]. Neurological symptoms are estimated to occur in greater than half of all patients with osteoblastoma due to either pathological fractures or soft tissue extension producing mass effect.
+
+Initial radiological evaluation of osteoblastoma has a non-specific appearance with some resembling osteoid osteoma with sclerotic margins and others having periosteal new bone formation [14–17]. Contrast enhanced MRI is useful for evaluating the soft tissue extent of the lesion, although it can overestimate the aggressiveness of osteoblastoma due to associated marked inflammation alluded by the authors as “flare response” [18, 19]. MRI features are non-specific with typically low to isointense T1 and T2-weighted signal, decreased signal due to matrix calcification (if present) and intense enhancement representing the highly vascular nature of this lesion.
+
+CT is of immense help in delineating the site, nature and extent of bone destruction [18, 19]. Osteoblastoma typically presents as a lytic expansile lesion on CT with a shell of sclerosis. Some lesions may show matrix calcification and cortical breach. Bone scintigraphy is non-specific and typically shows increased radiotracer uptake indicating increased osseous turnover [20]. Histology of osteoblastoma is characterized by the presence of plump and epithelioid osteoblasts producing woven bone. Prominent nucleoli, larger trabeculae and invasion of cortical bone are seen in aggressive osteoblastomas [8]. Histopathology of the intraoperative specimen in our case showed a similar picture compatible with diagnosis of osteoblastoma.
+
+Osteoblastomas are usually managed surgically as this is the most effective treatment described in the literature [8, 12, 21, 22]. While marginal resection can be curative in osteoblastoma, complete resection is not possible in certain locations such as the spine. In spinal osteoblastomas, total excision is the preferred treatment option as it has the lowest chance of recurrence [23, 24]. However, some researchers have reported good results with subtotal excision or resection without wide margins [9, 25]. Intralesional curettage is done when en bloc excision is not possible.
+
+Among the postoperative adjuvant therapies, radiotherapy is the most common modality but its role in the treatment to reduce recurrence is controversial. Some studies have found beneficial effects of radiotherapy following subtotal excision [22], whilst others have shown no clear benefit of radiotherapy following subtotal excision or in recurrent tumours. Radiotherapy does not alter the course of the disease and appears to be contraindicated. In addition, radiotherapy is associated with the risk of post radiation sarcoma [8, 15, 23, 26]. With regard to chemotherapy as post adjuvant therapy, there are only limited anecdotal case reports and its use is largely in patients with recurrence [28]. A systematic review from Harrop et al. states that there is only weak recommendation for chemotherapy in osteoblastoma due to very low quality literature and may be of limited role in recurrent aggressive osteoblastoma [23].
+
+## Conclusion
+In conclusion, the differential diagnosis for vertebra plana is extensive and we add spinal osteoblastoma as one more etiology to the existing list. Diagnosis and treatment of vertebra plana involves multimodality radiological imaging, and careful histological and surgical evaluation to find out the underlying etiology.

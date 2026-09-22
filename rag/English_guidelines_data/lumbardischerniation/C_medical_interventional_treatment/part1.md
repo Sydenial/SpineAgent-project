@@ -1,0 +1,53 @@
+# What is the role of pharmacological treatment in the management of lumbar disc herniation with radiculopathy? 
+
+TNF alpha inhibitors are not suggested to provide benefit in the treatment of lumbar disc herniation with radiculopathy.
+
+## Grade of Recommendation: B
+
+Genevay et al. conducted a prospective randomized controlled trial to assess the efficacy of adalimumab, a tumor necrosis factor alpha inhibitor, in patients with radicular pain due to lumbar disc herniation. Of the 61 consecutively assigned patients included in the study, 31 received adjuvant treatment with two subcutaneous injections of adalimumab at seven-day intervals, and 30 received placebo. Outcomes were assessed at six months using the Visual Analog Scale (VAS) for leg and low back pain, Oswestry Disability Index (ODI), SF-12, work status, drug use, and whether patients proceeded to surgery. "Responders" were defined as those with VAS scores for leg pain and back pain or ODI which improved by greater than 30% without having surgery. "Low Residual Disease" was defined by VAS scores of 0-20, without surgery, and ODI of 20 or less. A significant, small effect size was reported in favor of the experimental group on days one and two after treatment for leg pain. At six months, the number of patients meeting the "Responder" and "Low Residual Disease" criteria was significantly greater in the experimental group. The authors concluded that a short course of adalimumab added to the treatment regimen of patients experiencing acute and severe sciatica resulted in a small decrease in leg pain and significantly fewer surgical procedures. However, the authors utilized nonvalidated interpretation of outcome measures to support their conclusion that treatment was effective. When evaluating the VAS, ODI, and SF-12, there was overlap in confidence intervals.
+
+Korhonen et al. (2005, 2006) performed a prospective randomized controlled trial to evaluate the efficacy of infliximab, a monoclonal antibody against tumor necrosis factor (TNF)-alpha, in the treatment of disc herniation-induced sciatica. The 2005 study described 12-week results and the 2006 study reported results at one year. Of the 40 consecutive patients included in the study, 21 received a 5 mg/kg single infusion of infliximab, while 19 patients received saline. Outcomes were assessed at three months and one year using VAS for leg pain and back pain, ODI, improvement of straight leg raise restriction, sick leave, and whether patients went on to surgery. At 12 weeks, there was no clinically significant difference between the treatment and placebo groups. The authors concluded that results do not support the use of a single infusion of infliximab to treat moderate to severe disc herniation-induced sciatica. At one year, there was no clinically significant difference between groups. These studies provide Level II therapeutic evidence that a single intravenous dose of infliximab is no better than a placebo for the treatment of sciatica due to lumbar disc herniation.
+
+### There is insufficient evidence to make a recommendation for or against the use of a single infusion of IV glucocorticosteroids in the treatment of lumbar disc herniation with radiculopathy.
+
+## Grade of Recommendation: I (Insufficient Evidence)
+
+Finkh et al. reported results from a prospective randomized controlled trial testing the short-term efficacy of a single IV pulse of glucocorticosteroids on the symptoms of acute discogenic sciatica. Of the 60 patients included in the study, 31 received an intravenous bolus of 500 mg of methylprednisolone, and 29 received an injection of normal saline. During the study, all patients received standard therapy (NSAIDs, tramadol, acetaminophen) and physical therapy. Some patients received additional treatment after three days. Outcomes were assessed at one, two, three, 10, and 30 days using VAS for sciatica, low back pain, and global pain; McGill pain scale; ODI; and signs of radicular irritation. For the primary outcome measure, the maximum mean VAS sciatic scale improvement of 5.7 cm occurred on day one. None of the secondary outcome measures was significantly different between the two groups. As expected, no durable benefit was observed at day 30 with a single intravenous bolus of glucocorticoids for any outcome. The authors concluded that a single intravenous pulse of glucocorticoid provides a small and transient improvement in sciatic leg pain. This study provides Level I therapeutic evidence that a single intravenous infusion of glucocorticoids provides only temporary relief of pain. A glucocorticoid bolus has no effect on functioning or objective signs of radicular irritation related to lumbar disc herniation.
+
+## There is insufficient evidence to make a recommendation for or against the use of 5-HT receptor inhibitors in the treatment of lumbar disc herniation with radiculopathy.
+
+## Grade of Recommendation: I (Insufficient Evidence)
+
+Kanayama et al. performed a prospective randomized controlled trial to evaluate the efficacy of 5-HT receptor inhibitors in the treatment of symptomatic lumbar disc herniation. Of the 40 consecutively assigned patients included in the study, 20 received oral 5-HT receptor inhibitor daily for two weeks, and 20 received oral diclofenac daily for two weeks. Outcomes were assessed at two weeks using the VAS and at greater than one year to identify any additional healthcare utilized. There was no statistical difference between the two groups. The authors concluded that the efficacy of the 5-HT receptor inhibitor was comparable with that of NSAID in the treatment of symptomatic lumbar disc herniation. This study provides Level II therapeutic evidence that at two weeks, 5-HT receptor inhibitors and diclofenac provide comparable relief from low back pain, leg pain, and leg numbness due to lumbar disc herniation.
+
+## There is insufficient evidence to make a recommendation for or against the use of gabapentin in the treatment of lumbar disc herniation with radiculopathy.
+
+## Grade of Recommendation: I (Insufficient Evidence)
+
+Kasimcan et al. reported results of a prospective case series assessing the effects of gabapentin on reduction of the severity of radicular pain and improvement of quality of life in patients with lumbar disc herniation and/or lumbar spinal stenosis over a relatively short period. Of the 78 patients included in the study, 33 had lumbar disc herniation with radiculopathy. Patients received a titration of gabapentin three times daily to a maximum dose of 2400 mg/day. Outcomes were assessed at three months via VAS for radicular pain, Odom's criteria, and walking distance. Mean scores for VAS, walking distance, and Odom's criteria all showed a statistically significant improvement at three months compared to baseline. The authors concluded that gabapentin monotherapy can reduce pain and increase walking distance significantly in patients with lumbar disc herniation. This study provides Level IV therapeutic evidence that gabapentin three times daily titrated to a maximum dose of 2400 mg/day can significantly reduce radicular pain and improve function.
+
+## There is insufficient evidence to make a recommendation for or against the use of agmatine sulfate in the treatment of lumbar disc herniation with radiculopathy.
+
+## Grade of Recommendation: I (Insufficient Evidence)
+
+Keynan et al. conducted a prospective randomized controlled trial to evaluate the therapeutic efficacy of agmatine sulfate in patients with herniated lumbar disc associated radiculopathy. Of the 99 consecutively assigned patients, 38 patients dropped out or were excluded due to "unreliable data collection." Of the remaining 61 patients, 31 received a 14-day course of 2,670 grams/day of oral agmatine sulfate, and 30 patients received identical capsules of indigestible dietary fiber. Outcomes were assessed at two months using VAS for back and leg pain, McGill Pain, ODI, and SF-36. Symptoms improved in both groups over time. Statistically significant enhanced improvements were seen in the treatment group compared to the placebo group in the period immediately following treatment. At later follow-ups, the difference did not meet statistical significance. The authors concluded that agmatine sulfate was more effective than placebo in the treatment of lumbar disc herniation with radiculopathy. This study provides Level II therapeutic evidence that a two-week treatment of agmatine sulfate is more effective than placebo.
+
+### There is insufficient evidence to make a recommendation for or against the use of amitriptyline in the treatment of lumbar disc herniation with radiculopathy.
+
+## Grade of Recommendation: I (Insufficient Evidence)
+
+Pirbudak et al. conducted a prospective randomized controlled trial to determine the efficacy of amitriptyline as an adjunct to epidural steroid injections in the management of chronic lumbar radicular pain. All patients received a blind interlaminar epidural injection with betamethasone dipropionate, betamethasone sodium phosphate, and bupivacaine. In addition, a postural exercise program was initiated during the follow-up period. Of the 92 patients included in the study, 46 received 10 mg/day amitriptyline orally (titrated up to 50 mg/day), and the remaining 46 received placebo. Outcomes were assessed at two weeks, six weeks, three months, six months, and nine months using VAS, ODI, and self-rating of recovery. The amitryptiline group experienced statistically significant improvements compared with baseline values and the placebo group. This study provides Level I therapeutic evidence that the addition of amitriptyline to epidural steroid injections provides significant relief compared with placebo and interlaminar epidural steroid injections up to nine months.
+
+## Future Directions for Research
+
+## General Recommendation:
+
+The role of routine pharmacological treatment, including NSAIDs, muscle relaxants, oral corticosteroids, neuromodulators, and analgesics, needs to be investigated in patients with lumbar disc herniation with radiculopathy, compared with untreated control groups.
+
+## Work Group Consensus Statement
+
+The work group suggests that a limited course of structured exercise may be effective for patients with mild to moderate symptoms from lumbar disc herniation with radiculopathy.
+
+## Future Directions for Research
+
+An RCT with long-term follow-up and validated outcome measures would assist in providing evidence to assess the efficacy of physical therapy/structured exercise in the treatment of lumbar disc herniation with radiculopathy.

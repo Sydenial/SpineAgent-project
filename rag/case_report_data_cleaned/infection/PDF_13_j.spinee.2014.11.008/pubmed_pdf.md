@@ -1,0 +1,11 @@
+# A Delayed Spinocutaneous Fistula After Anterior Cervical Discectomy and Fusion
+
+## Case Report
+
+A 60-year-old woman sustained a mild hyperextension injury that resulted in a severe central cord syndrome (American Spinal Cord Injury Association scale, ASIA C). Magnetic resonance imaging of the cervical spine showed extensive degenerative changes from C4 to C7, spinal canal stenosis, and a spinal cord contusion. She underwent anterior C4 corpectomy, C5–C6 discectomy, and fusion using iliac crest bone, cage, and plate. Postoperatively, she gradually improved and was able to walk independently and return to part-time work.
+
+Six years later, pus started draining from the lower part of the surgical incision, and she also experienced difficulty swallowing. Magnetic resonance imaging of the neck revealed a fistula located just below the level of the cricoid cartilage, extending from the anterior part of the C6 vertebral body to the skin surface. Esophagoscopy and barium swallow radiographs showed no signs of communication between the fistula and the esophagus and/or the pharynx.
+
+The patient underwent surgical exploration, during which the fistula was found to originate from the titanium cage between the C5 and C6 levels. The fistula was completely excised. Pathologic examination revealed an inflammatory process without signs of malignancy. The postoperative course was uneventful, and the preoperative symptoms resolved. At 1-year follow-up, magnetic resonance imaging confirmed complete removal of the fistula with no residual tract.
+
+Although fistulae after anterior cervical surgery are uncommon, they have been reported to occur between the pharynx and the skin, typically at earlier postoperative time points than in the present case, and may become life-threatening [1,2]. In this report, the fistula developed between the implanted cage and the skin and occurred 6 years after the initial anterior cervical fusion. It may have originated from newly formed bone at the fusion site. The fistula was successfully treated with surgical excision.

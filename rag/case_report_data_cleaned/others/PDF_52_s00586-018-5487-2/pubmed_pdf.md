@@ -1,0 +1,45 @@
+# Sagittal imbalance treated with L5 pedicle subtraction osteotomy with short lumbar fusion from L4 to sacrum using four screws into L4 for enhanced fixation: a technical note
+
+## Abstract
+
+**Purpose**: To report on a suggested technique with four screws in a single vertebra (two pedicle screws and two direct vertebral body screws) for enhanced fixation with just one-level pedicle subtraction osteotomy (PSO).
+
+**Methods**: A 60-year-old woman underwent L4/5 fusion surgery for degenerative spondylolisthesis. Two years later, she was unable to stand upright for long periods due to lumbar kyphosis caused by subsidence of the fusion cage and Baastrup syndrome in the upper lumbar spine (sagittal vertical axis (SVA) of 114 mm, pelvic incidence of 75, and lumbar lordosis (LL) of 41°). She underwent short-segment fusion from L4 to the sacrum with L5 pedicle subtraction osteotomy. We reinforced the construct with two vertebral screws at L4 in addition to the conventional L4 pedicle screws.
+
+**Results**: After surgery, her sagittal parameters improved (SVA, 36 mm; LL, 54°). Two years after the corrective surgery, she maintained a low sagittal vertical axis, though high residual pelvic tilt indicated that the patient was still compensating for residual sagittal misalignment.
+
+**Conclusion**: PSO surgery for sagittal imbalance usually requires a long fusion, at least two levels above and below the osteotomy site, to achieve adequate stability and better global alignment. However, longer fixation may decrease the patient’s quality of life and cause proximal junctional failure. Our novel technique may shorten the fixation area after osteotomy surgery.
+
+## Introduction
+
+Sagittal alignment of the spine has become the key consideration when treating adult patients with spinal deformity. The cause of sagittal imbalance is usually a combination of a loss of lumbar lordosis and an increase in thoracic kyphosis. Further, the pelvis is a key factor in conceptualizing the ideal spinal alignment in the sagittal plane. Sagittal imbalance is not only the deviation of lumbar lordosis or thoracic kyphosis but also the discordance of the lumbar curve from its seat, the pelvis.
+
+Long fusion from the thoracic spine to the sacrum is usually selected in adult patients to achieve adequate sagittal balance of a degenerative spine. However, longer fusion can lead to pseudoarthrosis, proximal junctional failure, and patient dissatisfaction.
+
+Here, we present the case of a 60-year-old woman with sagittal imbalance after single-level fusion surgery for degenerative L4/5 spondylolisthesis. The main cause of the imbalance was iatrogenic L4/5 segmental kyphosis after the surgery, but she could not compensate for the sagittal imbalance by pelvic retroversion and hyperextension of the upper lumbar spine. She was treated successfully with a short fusion from L4 to the sacrum together with L5 pedicle subtraction osteotomy (PSO). The pathology of the sagittal malalignment in this case and the surgical technique are discussed in detail.
+
+## Case Report
+
+A 60-year-old woman presented to our hospital complaining of low back pain and bilateral radiculopathy of the lower limbs. A lateral X-ray revealed degenerative spondylolisthesis at L4/5. Her Japanese Orthopaedic Association (JOA) score was 13/29. She was treated with L4/5 transforaminal lumbar interbody fusion with pedicle screw fixation. After the surgery, her radicular pain disappeared, and 6 months postoperatively her JOA score improved to 26. The postoperative segmental lordotic angle at L4/5 (the angle between the proximal endplate of L4 and the distal endplate of L5) was 16°. However, the segmental lordosis between L4/5 decreased gradually because of subsidence of the cage into the L4 vertebra. A year after surgery, the L4/5 lordotic angle was 5° and she developed back stiffness. Her clinical symptoms worsened gradually over 7 years, and eventually, she had difficulty maintaining an upright standing posture for even a short time without any neurological symptoms. Imaging studies revealed severe sagittal imbalance of the whole spine with a sagittal vertical axis (SVA) of 117 mm. Her sagittal alignment parameters are shown in Table 1. There was a severe mismatch between the pelvic incidence (PI) and lumbar lordosis (LL) $(PI - LL = 34^\circ)$, and her pelvic tilt (PT) became large, 36°. Further, the lateral X-ray in extension view showed that the spinous processes from L1 to L4 were touching each other (Baastrup syndrome or kissing spine), which might prevent further extension of the lumbar spine. We concluded that her sagittal imbalance was caused by iatrogenic L4/5 malalignment, even under the condition of compensatory pelvic retroversion and hyperlordosis at the upper lumbar spine.
+
+Because her back muscles were almost normal and magnetic resonance imaging showed no degenerative changes or canal stenosis at the upper lumbar levels, we planned to perform a short lumbar fusion from L4 to the sacrum with L5 pedicle subtraction osteotomy (PSO) and L5/S transforaminal lumbar interbody fusion. To increase the stability of the construct, two supplemental vertebral body screws were placed at L4 together with bilateral S2-ala-iliac screws, which were connected using a four-rod construct.
+
+After the surgery, her sagittal alignment improved dramatically. The LL increased from 41° to 54°, mainly because of an increase in the L4/5 segmental lordosis (31°), although her PT remained large at 37°. Her SVA at final follow-up was 36 mm, and her back stiffness and difficulty in standing or walking had completely disappeared. Complete bone union at the level of the osteotomy site and at the L5/S level was achieved at the latest follow-up.
+
+## Discussion
+
+Aging of the spine, vertebral fractures, and inappropriate fusion surgery cause kyphosis of the spine resulting in sagittal balance disorders. The usual early compensatory mechanism in patients with sagittal deformity is hyperextension of the adjacent vertebrae and hip hyperextension. In the case of severe deformity, patients may require knee flexion and ankle extension to balance their standing posture. If the sagittal deformity is too large to compensate, some patients need surgical intervention to restore an appropriate spinal curvature.
+
+In this patient, the main cause of sagittal malalignment was L4/5 segmental kyphosis caused by subsidence of the fusion cage, which led to a rapid decrease in the L4/5 segmental lordosis. Although the pelvis showed retroversion (PT 36) and her upper lumbar spine was hyperextended, she could not compensate for her global sagittal alignment.
+
+Sagittal imbalance usually requires a long fusion from the thoracic spine to the lower lumbar vertebrae or sacrum. In older patients, the sacrum is typically selected as the lower instrumented vertebra, and good clinical results have been reported using iliac screw reinforcement. The ideal level of the upper vertebra in surgery for sagittal malalignment is still controversial. Theoretically, longer fusion can achieve better global alignment, but it decreases the patient's quality of life, and there is a concern about proximal junctional failure, especially in longer fusions up to L3.
+
+In this patient, there was little disc degeneration up to L3/4, so we decided to make the proximal end at L4 to minimize the fusion length. Because she had a large PI and the mismatch between PI and LL was large, we planned a PSO at L5. We thought that standard L4 pedicle screw fixation alone might be insufficient and, therefore, added two other reinforcing vertebral screws. As expected, at the most recent follow-up, bone union was present both at the osteotomy site and at L5/S without any complications. Her postoperative lumbar lordosis became 54°, and her SVA improved dramatically. However, her PT after the second surgery was almost the same as before that surgery.
+
+Although our short fusion method showed good clinical results in this case, the surgical indications for this short fusion are still unclear, and further clarification is required. The mechanical strength of our four-screw construct (two conventional pedicle screws and two vertebral screws) should be examined in a cadaveric study. We believe that younger patients with less degenerative discs and without osteoporosis may be good candidates for this type of surgery.
+
+In conclusion, we treated a patient with a sagittal deformity resulting from L4/5 iatrogenic kyphosis and kissing lumbar spine with L5 PSO and short fusion surgery from L4 to the sacrum using four screws and a four-rod construct. This strategy and the surgical method may be an option for treating sagittal malalignment, although the indications for the surgery require clarification.
+
+## Compliance with Ethical Standards
+
+**Conflict of interest**: No conflict of interest is declared.

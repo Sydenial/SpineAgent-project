@@ -1,0 +1,30 @@
+# Ruptured Posterior Spinal Artery Aneurysm: Intraoperative and Histologic Findings with Appreciable Thrombosis
+
+## Abstract
+
+**BACKGROUND CONTEXT**: Little is known on the natural course of ruptured spinal artery aneurysm, and a treatment strategy remains to be elucidated.  
+**PURPOSE**: This case report aims to describe a rare case of a posterior spinal artery aneurysm that showed progressive thrombosis following subarachnoid hemorrhage.  
+**STUDY DESIGN**: This is a case report and literature review.  
+**METHODS**: A 54-year-old man presented with subarachnoid hemorrhage due to posterior spinal artery aneurysm at the T10 level. The patient underwent surgery 19 days after onset.  
+**RESULTS**: Most of the aneurysm appeared unenhanced on intraoperative indocyanine green video angiography, and total resection was performed. Histologic examination confirmed spontaneous thrombosis of the lesion. A review of the literature identified 19 cases of ruptured posterior spinal artery aneurysm. Thrombosed aneurysm and thrombosed parent artery were observed in 7 (44%) of the 16 cases treated with surgical or endovascular interventions. In the three cases treated conservatively, fatal rebleeding in the acute stage was noted in one case, whereas the lesion disappeared spontaneously in the chronic stage without rebleeding in two cases.  
+**CONCLUSIONS**: Ruptured spinal artery aneurysms are prone to spontaneous thrombosis. The healing process of the lesion was well documented in the present case. Repeated angiographic follow-up offers a feasible alternative in the management of this fairly rare aneurysm.
+
+## Introduction
+
+Ruptured spinal artery aneurysm presenting with subarachnoid hemorrhage is rare. Little is known about the natural course of this entity, and controversy exists on treatment strategy. Prompt surgical resection or endovascular embolization of the aneurysm can prevent rebleeding [1–7]. Conversely, conservative management is known to lead to spontaneous disappearance of the lesion in selected patients [1,5,6]. Here, we report the case of a patient with a ruptured posterior spinal artery aneurysm who underwent surgical resection and showed discrepancy between contrast enhancement on preoperative angiography and the results of intraoperative indocyanine green (ICG) video angiography.
+
+## Case Presentation
+
+A 54-year-old man presented with severe back pain and vomiting. Brain computed tomography did not show subarachnoid hemorrhage, and ureterolithiasis was suspected at another hospital. Six days after onset, the patient was reevaluated because of persisting headaches and back pain. Spinal magnetic resonance imaging revealed subdural and subarachnoid hemorrhage focusing on thoracic segments, and the patient was transferred to our institution. On admission, no obvious neurologic deficit was observed except for neck stiffness. Spinal angiography on Day 7 after onset revealed a fusiform aneurysm on the radiculopial artery, fed by the T10 intercostal artery. The patient was managed conservatively in the intensive care unit during the vasospasm period. On Day 19 after onset, the patient underwent direct surgery to prevent rebleeding. The ICG video angiography showed decreased contrast enhancement of the aneurysm compared with that on preoperative angiography, and most of the aneurysm was not enhanced. The radiculopial artery was divided and the aneurysm was resected. Histologic examination revealed thick organized thrombus formation within the aneurysm, resulting in significant luminal narrowing. Postoperative angiography showed disappearance of the aneurysm, and the patient was discharged without neurologic deficits.
+
+## Discussion
+
+In the present case, the discrepancy between preoperative angiographic and intraoperative ICG angiographic findings can be explained by progressive thrombosis of the aneurysm revealed on histologic examination. In patients with neurovascular lesions, intraoperative angiography using intravenous administration of ICG (a near-infrared fluorescent dye) allows live imaging of blood flow of an aneurysm sac with a laser fluorescence device attached to a surgical microscope [8]. To the best of our knowledge, this represents the first case in which spontaneous thrombosis was confirmed from intraoperative ICG and histologic findings. This result may reflect the healing process of ruptured spinal artery aneurysms.
+
+To our knowledge, 19 patients with ruptured posterior spinal artery aneurysms diagnosed angiographically have been reported [1–7,9–16]. Of these, 16 patients, including the present case, were treated with surgical or endovascular interventions at varying times. In 7 (44%) of these 16 patients, a thrombosed aneurysm and thrombosed parent artery were observed intraoperatively. Of these seven patients, the time between symptom onset and treatment was consistently within 1 month (range: 1–26 days).
+
+Among the three patients treated conservatively, fatal rebleeding in the acute stage was noted in one case (Patient 17), whereas the lesion was reported to have disappeared spontaneously without rebleeding in two cases (Patients 18 and 19) in the chronic stage (2 and 59 months). Although the small number of reported cases precludes meaningful statistical analysis, the results suggest that spinal artery aneurysms are prone to thrombosis, likely due to the narrow, winding nature of these vessels. Prompt surgical or endovascular interventions have been recommended by most authors, but the radiological and intraoperative findings in the present case also support the notion that repeated angiographic follow-up may represent a valid alternative in the management of this fairly rare aneurysm.
+
+## Acknowledgments
+
+The present study was supported in part by the Japan Society for the Promotion of Science KAKENHI (Grant Numbers 25462235 and 26461278) and the Hidaka Project 2014.

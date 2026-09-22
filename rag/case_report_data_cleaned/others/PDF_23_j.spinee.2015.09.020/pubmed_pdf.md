@@ -1,0 +1,5 @@
+# IMAGES OF SPINE CARE
+
+## A sesamoid ossicle of the nuchal ligament mimicking spinous avulsion fracture
+
+A 25-year-old man who suffered a traffic accident was admitted to our emergency department. Computer tomography was performed. Computer tomography images showed an osseous structure mimicking avulsion fracture at the level of C5–C6 (Fig. 1). There was no bone defect corresponding to spinous process and so, the diagnosis was consistent with sesamoid ossicles of the nuchal ligament. Sesamoid ossicles of the nuchal ligament are an anatomical variant that are usually asymptomatic. Prominent differential diagnosis includes avulsion fractures of the spinal processes and myositis ossificans. Focal well-defined osseous masses, well-circumscribed with regular shape, are in favor of sesamoid ossicle of nuchal ligament, whereas triangular dense bony fragment with bony defect of the adjacent spinous process are in favor of spinous process fracture.

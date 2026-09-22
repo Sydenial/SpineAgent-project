@@ -1,0 +1,50 @@
+# Traumatic Hyperextension-Distraction Injuries of the Thoracolumbar Spine: A Technical Note on Surgical Positioning
+
+## Abstract
+
+Purpose: Hyperextension-distraction type injury of the thoracolumbar spine is an unstable fracture pattern that generally necessitates surgical stabilization by posterior instrumentation. Care must be taken when positioning these patients from supine to prone due to the unstable nature of their injury. The study objectives were: 1) to describe a novel modification of the Jackson table turn technique, which may be safer and more effective than the conventional log-roll method and traditional Jackson table technique for positioning patients with hyperextension-distraction injuries of the thoracolumbar spine from supine to prone in the operating room; and 2) to present two cases in which this technique was successfully performed. 
+
+Methods: Two patients were carefully positioned from supine to prone by our modification of the Jackson table turn technique, which utilizes a Wilson frame sandwiched between two flat-top Jackson frames. Case 1: a 65-year-old female presented status-post motor vehicle collision with a T9–T10 extension-distraction injury, requiring T7–T12 posterior spinal instrumented fusion (PSIF). Case 2: a 72-year-old female presented status-post motor vehicle collision with a T9–T10 extension-distraction injury and an unstable L1 burst fracture, requiring T7–L2 PSIF. 
+
+Results: Both patients remained hemodynamically stable and neurologically intact throughout positioning and postoperatively. 
+
+Conclusions: This technique is safe and effective for positioning patients with hyperextension-distraction type injuries of the thoracolumbar spine from supine to prone in the operating room and may be superior to conventional methods.
+
+## Keywords
+Surgical positioning · Extension-distraction injury · Thoracolumbar spine · Posterior approach · Jackson table
+
+## Introduction
+
+Traumatic extension-distraction injuries of the thoracolumbar spine are rare in the general population, comprising less than 3% of fractures in this region [1]. Using the Thoracolumbar Injury Classification System and Severity Score (TLICS), most of these injuries will score at least seven points [2]. Operative management with a posterior approach is generally indicated [3], requiring patient transfer from a supine to prone position. However, iatrogenic neurologic deterioration is a concern in all cases of traumatic spinal instability, and repositioning maneuvers can have a high associated risk of secondary neurologic deterioration in these patients [4–8].
+
+Two techniques commonly used to transfer patients include the conventional log-roll method and the Jackson table turn method [9–13]. Studies have shown that the Jackson table turn technique is superior to the conventional method for limiting motion of an unstable cervical spine during prone positioning [14, 15]. However, evidence to support its use in an unstable thoracolumbar spine has been limited. Using a cadaveric instability model, DiPaola et al. [16] found that compared to the conventional log-roll method, the Jackson table turn technique provides superior immobilization of an unstable thoracolumbar spine during prone positioning. To our knowledge, there have been no other studies validating the use of a superior method of transferring a patient with thoracolumbar instability from supine to prone.
+
+We propose a novel modification of the Jackson table turn technique in which a Wilson frame is sandwiched between two flat-top Jackson frames. The Wilson frame was used to aid in reduction and restoration of native kyphosis by altering the frame curvature. Compared to the conventional log-roll and the traditional Jackson table turn methods, our technique may be a safer way of preventing neurologic deficits in these patients. The purpose of this study was to describe our method of positioning these patients in the operating room and to present two cases in which this technique was successfully performed.
+
+## Patient Presentations
+
+**Patient 1:** A 65-year-old female with unknown medical history due to her clinical condition and presented status-post motor vehicle collision with bilateral open knee injuries and left open distal femur-proximal tibia fractures. The patient was intubated for respiratory distress and sedated. Physical examination was notable for poor rectal tone, intact bulbocavernous reflex, no spinous process step-offs, and gross movement of bilateral upper and lower extremities upon arrival to the trauma bay. A computed tomography (CT) of the thoracic and lumbar spine demonstrated a displaced superior endplate fracture of the T10 vertebral body with marked asymmetric widening of the anterior T9–T10 disk space requiring operative management. The patient was medically stabilized, and informed consent for necessary operative interventions was obtained after a thorough and detailed discussion with the family.
+
+**Patient 2:** A 72-year-old female with a history of hypertension, bilateral lower extremity lymphedema, and bilateral knee arthroplasty and presented status-post rollover motor vehicle collision with a grade 1 right open periprosthetic femur fracture. Physical examination was notable for a grossly intact motor and sensory neurologic examination with no numbness or paresthesia. Imaging revealed a T10 Chance fracture and L1 burst fracture requiring operative management. The patient was medically stabilized, and informed consent was obtained after a thorough and detailed discussion.
+
+## Surgical Technique
+
+The patient was identified and transported to the operating room. After the anesthesia team obtained airway and intravenous access, the patient was carefully transferred supine to a flat-top Jackson frame using a standard spine board. A Wilson frame taped to a second Jackson frame was placed over the anterior thoracolumbar region, sandwiching the patient between the two Jackson frames. Padding was added, the Jackson frames were secured together with belts, and multiple tapes were placed across the frames to secure the lines and chest tube. Then, the apparatus was carefully rotated 180°, positioning the patient prone. The first flat-top Jackson frame was removed, leaving the prone patient on the Wilson frame. This allowed for more controlled reduction in the traumatic deformity on the Wilson frame.
+
+Patient 1's thoracic spine was prepped and draped in the usual sterile fashion, and the patient underwent posterior spinal instrumented fusion (PSIF) from T7 to T12. Patient 2's thoracolumbar spine was prepped and draped in the usual sterile fashion, and the patient underwent PSIF from T7 to L2. For both patients, there were no changes in neuromonitoring throughout the course of the procedure.
+
+## Follow-up
+
+Postoperatively, both patients were admitted to the trauma burn intensive care unit and treated for their concomitant injuries. Both patients remained hemodynamically stable and neurologically intact throughout their hospital stay and were discharged in stable condition to a skilled nursing facility. They were followed by the orthopedic spine team and remained neurologically intact with spinal fusion hardware properly in place through 1-year follow-up (Patient 1) and 6-month follow-up (Patient 2).
+
+## Discussion
+
+Secondary neurologic deterioration is a risk for any patient presenting with an acute unstable spinal injury for reasons including potential destabilization during transfer from supine to prone for a posterior surgical approach. Care must be taken during positioning to limit spinal motion and prevent the development of neurologic compromise. Two common techniques used to transfer patients from a supine to prone position include the conventional log-roll method and the Jackson table turn method. Our proposed technique is a novel modification of the traditional Jackson table turn method in which a Wilson frame is sandwiched between two flat-top Jackson frames. The Wilson frame was used to promote reduction and restoration of native kyphosis. The two-frame sandwich technique prevents any translation or motion at the fracture site. By rotating this setup as a unit, the patient is carefully positioned prone in a controlled manner.
+
+We believe that this technique provides safe and effective positioning of those patients with unstable hyperextension-distraction injuries of the thoracolumbar spine, as supported by the absence of neuromonitoring signal changes in our patients. Furthermore, by providing superior immobilization at the fracture site, our technique may be superior to both the conventional log-roll method and traditional Jackson table turn method, both of which have been shown to result in movement in the unstable thoracolumbar spine. Additional advantages of this technique include no need for special equipment, as well as no additional cost. There is minimal additional preparation and disassembly time during the immediate pre- and postoperative period.
+
+This technique may be particularly useful in certain populations, such as those with fused spinal segments in ankylosing spinal disorders (ASD), which includes diffuse idiopathic skeletal hyperostosis (DISH) and ankylosing spondylitis (AS). While extension-distraction type injury of the thoracolumbar spine is rare in the general population, it is the predominant fracture pattern in this region of the spine in ASD patients. These fractures usually involve both the anterior and posterior columns of the spine and are considered unstable, necessitating surgical stabilization. Similar to patients without ASD, treatment with posterior instrumentation is generally indicated. Additionally, ASD patients with spinal fractures have a relatively high rate of secondary neurologic deterioration. 
+
+## Compliance with Ethical Standards
+
+**Conflict of Interest:** The authors declare that they have no conflict of interest.

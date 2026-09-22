@@ -1,0 +1,12 @@
+# IMAGES OF SPINE CaRE
+
+## Proximal junctional spondylodiscitis after pedicle subtraction osteotomy
+
+Three-column resection osteotomies of the spine are burdened with several major complications [1–4]. We report an unusual and unreported complication after pedicle subtraction osteotomy for sagittal imbalance correction. A 69-year-old woman came to our attention suffering from severe low back pain and neurogenic claudication caused by an adult scoliosis with significant sagittal imbalance (Fig. 1 Left, Middle) and L3-L4 spondylolisthesis and spinal canal stenosis (Fig. 1 Right). The patient underwent a pedicle subtraction osteotomy of L4 followed by posterior instrumentation from T10 to ileum (Fig. 2 Left, Right). After a regular postoperative recovery, the lady was discharged 9 days after surgery. Forty-five days later, an acute posterior thoracic pain appeared with incomplete paraplegia. The imaging showed a spondylodiscitis at the proximal junctional segment with invasion of the spinal canal (Fig. 3). Microbiological tests after a computed tomography-guided biopsy defined *Staphylococcus capitis* as the cause of infection. A posterior surgical revision and decompression was performed with no evidence of infection of the posterior instrumentation. These data suggest the possible hematogenous genesis of the junctional discitis. Whether biomechanical stresses and consequent hyperemia at the proximal junctional level are related to a higher risk of infection is still unclear, but this should be considered as a major complication in spinal deformity surgery.
+
+## References
+
+[1] Norton RP, Bianco K, Lafage V, Schwab FJ. Complications and intercenter variability of three-column resection osteotomies for spinal deformities: A prospective review of 423 patients. International Spine Study Group Foundation. *Evid Based Spine Care J* 2013;4:157–9.  
+[2] Smith JS, Sansur CA, Donaldson WF 3rd, Perra JH, Mudiyam R, Choma TJ, et al. Short-term morbidity and mortality associated with correction of thoracolumbar fixed sagittal plane deformity: a report from the Scoliosis Research Society Morbidity and Mortality Committee. *Spine* 2011;36:958–64.  
+[3] Smith MW, Annis P, Lawrence BD, Daubs MD, Brodke DS. Acute proximal junctional failure in patients with preoperative sagittal imbalance. *Spine J* 2015;15:2142–8.  
+[4] Bridwell KH, Lewis SJ, Edwards C, Lenke LG, Iffrig TM, et al. Complications of three-column osteotomies for fixed sagittal imbalance. *Spine* 2003;28:2093–101.

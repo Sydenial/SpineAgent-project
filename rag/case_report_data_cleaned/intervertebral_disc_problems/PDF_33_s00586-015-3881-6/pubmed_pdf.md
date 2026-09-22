@@ -1,0 +1,43 @@
+# A Case Report of a Rare Complication of Bowel Perforation in Extreme Lateral Interbody Fusion
+
+## Abstract
+
+Over the past decade, extreme lateral interbody fusion (XLIF) has gained in popularity as a minimally invasive alternative to direct anterior lumbar interbody fusion (ALIF), and ALIF's associated morbidity. Most notably, XLIF largely avoids vascular and visceral structures that are required to be mobilized in ALIF. In this case report, the authors describe a rare complication of a bowel injury in a 70-year-old male who underwent an L3-4 and L4–5 lateral transpsoas approach for interbody fusion.
+
+**Keywords**: XLIF · DLIF · Transpsoas · Lateral · Complications · Visceral · Bowel
+
+## Introduction
+
+The 90° mini-open lateral, retroperitoneal, transpsoas approach to the lumbar spine (extreme lateral interbody fusion, XLIF) was developed in the late 1990s and early 2000s to incorporate the advantages of the direct anterior approach to the lumbar spine without the need for an access surgeon and avoiding the primary risks to anterior approaches (visceral and vascular injuries) [1,2]. The purpose of this case report is to present a rare visceral complication in XLIF as well as to describe preoperative and perioperative methods for visceral injury avoidance to reduce the potential for this major complication.
+
+## Case Report
+
+A 70-year-old male patient with a body mass index (BMI) of 29.7 presented to the clinic with a 1-year history of progressively worsening chronic low back pain. Relevant baseline medical comorbidities included a history of gallstone surgery that was treated with a laparotomy 20 years previously, prior hiatal hernia repair, and a right-side total knee arthroplasty. Magnetic resonance imaging (MRI), computed tomography (CT), and radiographs were assessed and revealed no obvious issues of concern for the transpsoas approach (i.e., presence of transitional anatomy or other anatomic (vessel or visceral structures) variation [3, 4]. Imaging revealed severe degenerative disc disease (DDD) at L3-4 and L4–5. After the initial clinical assessment, the patient went on to fail a series of non-operative treatments for his condition (medical management and various rehabilitation programs). Therefore, the patient was scheduled for a two-level XLIF R (NuVasive®, Inc., San Diego, CA 92121) at L3–L4 and L4–L5 without supplemental internal fixation (standalone) by a surgeon with more than 100 cases of experience with the XLIF procedure.
+
+Preoperatively, white blood cell count (WBC) was 6.69×10³/mcL, red blood cell count (RBC) was 4.71 × 10⁶/mcL, hematocrit (HCT) was 44.3%, and hemoglobin (Hgb) was 15.1 g/dL. The surgery was performed following the published surgical technique, with the patient in the lateral decubitus position, at the level of the iliac crest to improve access to the L4–L5 disc space, and using a single-incision approach (single 90° lateral incision for both development of the retroperitoneal space and access to the psoas muscle and lateral disc).
+
+Following the development of the retroperitoneal space through the 90° lateral incision, a finger was used to guide the first dilator to the lateral border of the psoas muscle. Sequential dilatation was performed using evoked electromyography in directional orientations with discrete threshold responses (NV M5®, NuVasive, Inc.) to provide information on the location of the lumbar plexus during access to the lateral aspect of the L4–5 disc. After placement of the third dilator, a split-blade retractor (MaXcess®, NuVasive, Inc.) was placed, and the discectomy, endplate preparation, and intervertebral spacer placement were performed using standard surgical techniques. After completing the L4–L5 level, the retractor was removed, and the L3–L4 disc was approached using the same steps. Following completion of the L3–L4 level, the retractor was removed and no peritoneal violations were evident upon inspection. The incision was closed in the standard fashion without event.
+
+On postoperative day one, the patient was neurologically intact and hemodynamically stable, though with a fever of 38.4°C, which prompted an electrocardiogram (EKG) and analysis of blood and urine to be performed. The results of the blood analysis included a WBC of 2.06×10³/mcL, RBC of 4.01×10⁶/mcL, HCT of 37.3%, Hgb of 12.2 g/dL, and C-reactive protein (CRP) of 8.96 mg/dL. Following these results, antibacterial and antipyretic therapy was started.
+
+The patient continued to progress, with worsening nausea, severe abdominal pain, and was now presenting with a bloated belly. The clinical examination of the patient showed the presence of diffused pain with positive Blumberg sign, absence of peristalsis. Suspecting a visceral injury, an anteroposterior (AP) abdominal radiograph and computed tomography (CT) scan were immediately performed, revealing the presence of free air in the peritoneal cavity that suggested perforation of the digestive tract.
+
+Surgical exploration of the abdominal cavity was indicated. The patient underwent a laparotomy that revealed the perforation of the splenic curvature of the colon. Temporary colostomy was performed because of peritonitis. The colostomy was maintained for 3 months. After this, the colostomy was closed, and the patient fully recovered, with normal functioning of the colon.
+
+## Discussion
+
+Bowel injuries are a rare complication of anterior lumbar spinal procedures [6–11], but can occur in any lumbar procedure, even posterior approaches [12]. The XLIF procedure is a well-recognized alternative to direct anterior interbody fusion and has many relevant benefits over conventional approaches, with a relatively low rate of complications [1, 3, 13–19], though the risk of bowel injury, while low, does exist.
+
+Bowel perforation is a serious, life-threatening complication that can cause prolonged hospitalization, significantly increased costs, and decreased quality of life for the patient. Recognizing acute abdominal symptoms quickly is important in avoiding a cascade of negative events and subsequent sequelae.
+
+Intraoperatively in XLIF, complete development of the retroperitoneal space is essential in avoiding peritoneal contents. Careful passage of the dilators and retractor through the space to the lateral border of the psoas muscle, led by a finger, may also help to avoid peritoneal complications. During removal of the retractor, careful examination of the area should be made to ensure that there are no obvious peritoneal violations. In this patient, even though the direct retroperitoneal exploration after blunt finger dissection did not reveal any perforation, the retractor positioning may have created a violation of the peritoneum with an associated lesion of the descending colon. This can be more dangerous in an ectomorphic subject (not the case of this patient, with a BMI of 29 kg/m²), where the adipose content is low in the retroperitoneal space. In addition, this patient underwent a laparotomy 20 years prior for the removal of gallstones, and while preoperative MRI and CT did not reveal any visceral abnormality reflecting scarring or intestinal adhesions, they may have been present and contributed to the complication. As such, the authors suggest a systematic investigation of the retroperitoneal space during the approach and the positioning of the retractor, checking for peritoneal violations.
+
+In a suspected intestinal lesion postoperatively, an AP abdominal radiograph and CT scan should be performed to assess for the presence of air or fluid in the abdominal cavity. Delayed diagnosis substantially increases the risk of mortality as the bowel contains a large amount of bacteria and contents which are highly caustic, resulting in acute peritonitis. As was performed in this current case, urgent abdominal surgery should be performed to create a temporary colostomy.
+
+While this is not the first reported bowel injury in the literature [7], this report represents the first detailed case description with outcome and complication avoidance information included.
+
+## Conclusions
+
+Despite this complication, XLIF continues to be the authors' primary choice for anterior spinal surgery above L5 as, overall, complications, both major and minor, continue to be far less frequent than in the authors' experience with alternative approaches, while achieving the same surgical goals.
+
+**Conflict of interest**: No conflicts of interests exist.

@@ -1,0 +1,5 @@
+# IMAGES OF SPINE CARE
+
+## Case Description
+
+A 61-year-old woman presented with acute excruciating back pain, rapidly followed by paraplegia, sensory loss (Level Th9), and loss of sphincter tone. She was on long-term phenprocoumon treatment for atrial fibrillation. Her other medical history was unremarkable. Urgent magnetic resonance imaging of the spine showed a lesion suggestive of a spinal hematoma (Figure, Left). The distinction between an intra- or extradural localization of a spinal hematoma can be challenging. In this case, however, the transversal magnetic resonance images (Figure, Right) showed the typical sign of an intradural localization, which is easy to recognize and easy to memorize: the mercedes star sign [1]. This appearance is caused by the anatomical properties of the spinal cord that is "tied up" to the dura by the denticulate ligaments. In this case, a Th5–L2 laminectomy with dural opening, evacuation of a spinal intradural hematoma, and dural closure was performed. Six months after surgery, the patient walks without aid and has bowel control.

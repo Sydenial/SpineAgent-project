@@ -1,0 +1,11 @@
+# IMAGES OF SPINE CARE
+
+## A delayed spinocutaneous fistula after anterior cervical discectomy and fusion
+
+A 60-year-old woman sustained a mild hyperextension injury that resulted in a severe, central cord syndrome (American Spinal Cord Injury Association scale - ASIA C). Magnetic resonance imaging of the cervical spine showed extensive degenerative changes from C4 to C7, spinal canal stenosis, and a spinal cord contusion. She underwent anterior C4 corpectomy, C5-C6 discectomy, and fusion using iliac crest bone, cage, and plate. Postoperatively, she gradually improved and was able to walk independently and return to part-time work.
+
+Six years later, pus started draining from the lower part of the surgical incision and she also experienced difficulty in swallowing. Magnetic resonance imaging of the neck revealed a fistula located just below the level of cricoid cartilage, extending from the anterior part of the C6 vertebral body to the skin surface. Esophagoscopy and barium swallow X-rays showed no signs of communication between the fistula and the esophagus and/or the pharynx.
+
+The patient was explored and at surgery, the fistula was found to originate from the titanium cage between the C5 and C6 level. The fistula was completely excised. Pathologic examination of the fistula showed an inflammatory process without signs of malignancy. The postoperative course was uneventful and the preoperative symptoms were resolved. At 1 year postoperatively, magnetic resonance imaging confirmed radical removal of the fistula with no remnant.
+
+Although fistulae after anterior cervical surgery are uncommon, they have been reported to occur between the pharynx and the skin, at earlier postoperative time points than our present case, and may become life-threatening [1,2]. In the present report, the fistula developed between the inserted cage and the skin, occurred 6 years after the initial anterior cervical fusion surgery, and may have originated from the newly formed bone at the fusion site. The fistula was eventually explored and successfully treated with surgical excision.

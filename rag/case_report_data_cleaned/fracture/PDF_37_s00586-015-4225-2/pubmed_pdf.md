@@ -1,0 +1,45 @@
+# Lumbar artery injury from which the Adamkiewicz artery originated associated with lumbar spine injury: successfully treated by transcatheter arterial embolization
+
+## Abstract
+
+**Purpose** Lumbar artery injury associated with lumbar spine injury can be a cause of shock leading to life-threatening condition. The Adamkiewicz artery often bifurcates from a lumbar spine or an intercostal artery at the thoracolumbar junction, where spine injury most commonly occurs. However, in emergency transcatheter arterial embolization for lumbar artery injury, hemostasis has priority and blood supply to the Adamkiewicz artery is not frequently confirmed. The aim of this report is to present the case of lumbar spine injury with lumbar artery injury from which the Adamkiewicz artery bifurcated.  
+
+**Methods** Retrospective description of a case.  
+
+**Results** A 58-year-old man was pinned under about $300\text{-}\mathrm{kg}$ steel container that fell on his back. He was transported to our hospital and presented with hemorrhagic shock. Contrast-enhanced computed tomography demonstrated L1–2 flexion-distraction injury and left psoas major muscle swelling with extravasation of contrast medium, which suggested lumbar artery injury. Emergency angiography demonstrated bilateral second lumbar artery injury. Likewise, the Adamkiewicz artery originated from the distal part of the left second lumbar artery. Fortunately, selective angiography of the left first lumbar artery depicted collateral circulation to the Adamkiewicz artery. Embolization of the bilateral second lumbar artery was performed and massive hemorrhage was controlled successfully without spinal cord ischemia.  
+
+**Conclusions** Close attention must be paid to lumbar artery injury in the management of patients with lumbar spine injury. Once lumbar artery injury is found, transcatheter arterial embolization can be the treatment of choice with careful attention to the Adamkiewicz artery.
+
+## Introduction
+
+Massive hemorrhage is the most common cause of shock in trauma patients. The retroperitoneal space is one of the major bleeding cavities, in which hemorrhage is most frequently associated with pelvic fracture [1,2]. Lumbar artery injury can also lead to upper retroperitoneal hemorrhage [3,4], which can be a cause of shock leading to a life-threatening condition.
+
+Lumbar artery injury associated with lumbar spinal fracture or dislocation is relatively rare [3–6]. Once retroperitoneal hemorrhage is caused by lumbar artery injury, surgery often fails to identify bleeding sources and can cause further bleeding, limiting its use [4,6–8]. Transcatheter arterial embolization has been demonstrated to be a safe and effective method for immediate control of active extravasation, as well as to prevent future hemorrhage from an injured lumbar artery [4,6–9].
+
+The Adamkiewicz artery supplies blood to the anterior spinal artery and often bifurcates from a lumbar or an intercostal artery at the thoracolumbar junction, where spinal injury most commonly occurs [10–12]. Thus, embolization or ligation of the lumbar artery has a risk of spinal cord ischemia [3,4,6,13]. However, in emergency transcatheter arterial embolization for retroperitoneal hemorrhagic patients, hemostasis has priority and blood supply to the Adamkiewicz artery is not frequently confirmed, which may result in paralysis after treatment [3,4,6,14].
+
+We describe here a case of lumbar spine injury with lumbar artery injury from which the Adamkiewicz artery bifurcated. In this case, collateral circulation to the Adamkiewicz artery was carefully confirmed by selective angiography, and emergency transcatheter arterial embolization was successfully conducted not only to obtain hemostasis but also to prevent spinal cord ischemia.
+
+## Case Report
+
+A 58-year-old man was pinned under about a 300-kg steel container that fell on his back at a parcel delivery service distribution center. He was transported to our hospital complaining of back pain 40 minutes after the accident. On arrival, he presented with hemorrhagic shock. A subcutaneous hematoma was noted at the thoracolumbar junction. Neurological findings were normal.
+
+Computed tomography demonstrated L1–2 type C injury according to the Magerl classification [15], and left psoas major muscle swelling with extravasation of contrast medium, which suggested lumbar artery injury. No other lesions related to hemodynamic instability were detected. Transfusion of red cell concentrate (4 units) was administered, and emergency angiography was performed.
+
+A large amount of extravasation of contrast medium was demonstrated from the proximal part of the left second lumbar artery. Likewise, the Adamkiewicz artery originated from the distal part of this artery. Intra-arterial infusion of 1% lidocaine into the proximal part of the left second lumbar artery induced paralysis of both legs, suggesting that embolization of this artery could potentially cause spinal cord ischemia. Accordingly, the proximal part of this artery could not be chosen as a site of embolization.
+
+Subsequent selective angiography of the left first lumbar artery depicted collateral circulation to the left second lumbar artery without arterial damage. Therefore, embolization of the proximal part of the left second lumbar artery was performed. After embolization, the left first lumbar artery was confirmed to maintain patency of the Adamkiewicz artery. Selective angiography of the right second lumbar artery showed multiple extravasations. After this artery was embolized, circulation became stable without the need for additional blood transfusion. No paralysis occurred.
+
+On the seventh day after injury, when the general condition was stabilized, L2 spine-shortening osteotomy [16] using a T12–L3 pedicle screw and rod system was performed. The patient had a favorable postoperative course and was referred to another hospital for rehabilitation two weeks after surgery. On follow-up examination two years after surgery, there were no subjective symptoms of back pain and no abnormal neurological findings. Plain radiographs revealed complete bone union.
+
+## Discussion
+
+Lumbar artery injury occurs rarely and is caused by penetrating trauma, blunt trauma, or iatrogenic injury [3–5,17]. Lumbar arteries are less mobile and thus may be lacerated by the mobile aorta in high-energy trauma [3,18]. Lumbar artery injury associated with spinal fracture or dislocation can be life-threatening when responsible for massive hemorrhage [3–6]. Since the retroperitoneal space is abundant in blood vessels, surgical hemostasis is highly invasive and difficult, particularly in cases of severe hemorrhage associated with coagulopathy. Therefore, transcatheter arterial embolization is the treatment of choice for lumbar artery injury [4,6–9].
+
+The Adamkiewicz artery usually bifurcates from one of the T8–L2 intercostal or lumbar arteries on the left side and nourishes the lower part of the spinal cord [10–12]. Since spinal injuries frequently occur at the thoracolumbar junction, the intercostal or lumbar arteries from which the Adamkiewicz artery bifurcates can be injured. In addition, once the artery from which the Adamkiewicz artery originates is embolized proximal to the bifurcation, severe paraplegia may be induced [3,4,6,14]. Thus, before embolization of these vessels, the relationship between the intercostal or lumbar arteries and the Adamkiewicz artery should be carefully confirmed [4]. The test for paraplegia by administration of a local anesthetic before transcatheter arterial embolization [19] is useful but may be insignificant in patients with disturbance of consciousness or severe spinal cord injury [3].
+
+In the present case, the main source of hemorrhage was the retroperitoneal space, as indicated by contrast-enhanced computed tomography, and the main cause of bleeding was strongly suspected to be bilateral second lumbar arterial injuries based on angiographic findings. Since the Adamkiewicz artery was found to arise from the left second lumbar artery, selective angiography was performed on surrounding lumbar arteries to evaluate collateral circulation. Fortunately, collateral circulation to the Adamkiewicz artery from the left first lumbar artery was confirmed, allowing embolization of the left second lumbar artery and successful control of massive hemorrhage.
+
+## Conclusions
+
+Close attention must be paid to lumbar artery injury in the management of patients with lumbar spine injury. Once lumbar artery injury is identified, transcatheter arterial embolization can be the treatment of choice with careful attention to the Adamkiewicz artery. If the Adamkiewicz artery bifurcates from the injured lumbar artery, selective angiography of adjacent lumbar arteries to evaluate collateral circulation should be performed before embolization, while maintaining blood supply to the Adamkiewicz artery.

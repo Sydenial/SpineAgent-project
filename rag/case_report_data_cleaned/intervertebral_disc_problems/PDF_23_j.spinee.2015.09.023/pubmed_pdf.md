@@ -1,0 +1,5 @@
+# IMAGES OF SPINE CARE
+
+## Naked facet sign in a case of traumatic injury to the thoracic vertebra  
+
+A 23-year-old man with history of fall from a height of 12 feet was brought to casualty, unable to move his legs. He was evaluated with X-ray, computed tomography, and magnetic resonance imaging, and diagnosed with fracture dislocation of the T11–T12 vertebrae with posterior ligamentous disruption. Magnetic resonance imaging showed compression of the cord at the T12 level. Axial CT showed fracture dislocation at the T11–T12 level with uncovering of superior articular facet of T12, caused by the anterior dislocation of inferior articular facet of T11, called the "naked facet sign". Intraoperative findings confirmed the dislocated facet joint exposing the superior articular facet. Posterolateral decompression and posterior stabilization were performed.
